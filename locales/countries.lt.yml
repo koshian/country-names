@@ -1,0 +1,243 @@
+---
+lt:
+  iso3166:
+    af: Afganistanas
+    al: Albanija
+    dz: Alžyras
+    as: Amerikos Samoa
+    ad: Andora
+    ao: Angola
+    ai: Angilija
+    aq: Antarktida
+    ag: Antigva ir Barbuda
+    ar: Argentina
+    am: Armėnija
+    aw: Aruba
+    au: Australija
+    at: Austrija
+    az: Azerbaidžanas
+    bs: Bahamų salos
+    bh: Bahreinas
+    bd: Bangladešas
+    bb: Barbadosas
+    by: Baltarusija
+    be: Belgija
+    bz: Belizas
+    bj: Beninas
+    bm: Bermudai
+    bt: Butanas
+    bo: Bolivija
+    ba: Bosnija ir Hercegovina
+    bw: Botsvana
+    br: Brazilija
+    io: Indijos vandenyno britų sritis
+    vg: Didžiosios Britanijos Mergelių salos
+    bn: Brunėjaus
+    bg: Bulgarija
+    bf: Burkina Fasas
+    bi: Burundis
+    kh: Kambodža
+    cm: Kamerūnas
+    ca: Kanada
+    cv: Žaliasis Kyšulys
+    ky: Kaimanų salos
+    cf: Centrinės Afrikos Respublika
+    td: Čadas
+    cl: Čilė
+    cn: Kinija
+    cx: Kalėdų sala
+    cc: Kokosų salos
+    co: Kolumbija
+    km: Komorai
+    ck: Cook Islands
+    cr: Kosta Rika
+    hr: Kroatija
+    cu: Kuba
+    cw: Curacao
+    cy: Kipras
+    cz: Čekijos Respublika
+    cd: Kongo Demokratinė Respublika
+    dk: Danija
+    dj: Džibutis
+    dm: Dominika
+    do: Dominikos Respublika
+    tl: Rytų Timoras
+    ec: Ekvadoras
+    eg: Egiptas
+    sv: Gelbėtojas
+    gq: Ekvatorinė Gvinėja
+    er: Eritrėja
+    ee: Estija
+    et: Etiopija
+    fk: Falklando salos
+    fo: Farerų salos
+    fj: Fidžis
+    fi: Suomija
+    fr: Prancūzija
+    pf: Prancūzijos Polinezija
+    ga: Gabonas
+    gm: Gambija
+    ge: Gruzija
+    de: Vokietija
+    gh: Gana
+    gi: Gibraltaras
+    gr: Graikija
+    gl: Grenlandija
+    gd: Grenada
+    gu: Guamas
+    gt: Gvatemala
+    gg: Gernsio
+    gn: Gvinėja
+    gw: Bisau Gvinėja
+    gy: Gajana
+    ht: Haitis
+    hn: Hondūras
+    hk: Honkongas
+    hu: Vengrija
+    is: Islandija
+    in: Indija
+    id: Indonezija
+    ir: Iranas
+    iq: Irakas
+    ie: Airija
+    im: Isle of Man
+    il: Izraelis
+    it: Italija
+    ci: Dramblio kaulo krantas
+    jm: Jamaika
+    jp: Japonija
+    je: Džersis
+    jo: Jordanija
+    kz: Kazachstanas
+    ke: Kenija
+    ki: Kiribatis
+    xk: Kosovas
+    kw: Kuveitas
+    kg: Kirgizija
+    la: Laosas
+    lv: Latvija
+    lb: Libanas
+    ls: Lesotas
+    lr: Liberija
+    ly: Libija
+    li: Lichtenšteinas
+    lt: Lietuva
+    lu: Liuksemburgas
+    mo: Makao
+    mk: Makedonija
+    mg: Madagaskaras
+    mw: Malavis
+    my: Malaizija
+    mv: Maldyvai
+    ml: Malis
+    mt: Malta
+    mh: Maršalo salos
+    mr: Mauritanija
+    mu: Mauricijus
+    yt: Majotas
+    mx: Meksika
+    fm: Mikronezija
+    md: Moldavija
+    mc: Monakas
+    mn: Mongolija
+    me: Juodkalnija
+    ms: Montseratas
+    ma: Marokas
+    mz: Mozambikas
+    mm: Mianmaras
+    na: Namibija
+    nr: Nauru
+    np: Nepalas
+    nl: Nyderlandai
+    an: Olandijos Antilai
+    nc: Naujoji Kaledonija
+    nz: Naujoji Zelandija
+    ni: Nikaragva
+    ne: Nigeris
+    ng: Nigerija
+    nu: Niue salos
+    kp: Šiaurės Korėja
+    mp: Šiaurės Marianų salos
+    'no': Norvegija
+    om: Omanas
+    pk: Pakistanas
+    pw: Palau
+    ps: Palestina
+    pa: Panama
+    pg: Papua Naujoji Gvinėja
+    py: Paragvajus
+    pe: Peru
+    ph: Filipinai
+    pn: Pitkernas
+    pl: Lenkija
+    pt: Portugalija
+    pr: Puerto Rikas
+    qa: Kataras
+    cg: Kongo Respublika
+    re: Reunjonas
+    ro: Rumunija
+    ru: Rusija
+    rw: Ruanda
+    bl: Švento Baltramiejaus sala
+    sh: Elenos sala
+    kn: Sent Kitsas ir Nevis
+    lc: Sent Lusija
+    mf: Saint Martin
+    pm: Sen Pjeras ir Mikelonas
+    vc: Sent Vinsentas ir Grenadinai
+    ws: Samoa
+    sm: San Marinas
+    st: San Tomė ir Prinsipė
+    sa: Saudo Arabija
+    sn: Senegalas
+    rs: Serbija
+    sc: Seišeliai
+    sl: Siera Leonė
+    sg: Singapūras
+    sx: Sint Martenas
+    sk: Slovakija
+    si: Slovėnija
+    sb: Saliamono Salos
+    so: Somalis
+    za: pietų Afrika
+    kr: Pietų Korėja
+    ss: Pietų Sudanas
+    es: Ispanija
+    lk: Šri Lanka
+    sd: Sudanas
+    sr: Surinamas
+    sj: Svalbardas ir Jan Mayenas
+    sz: Svazilendas
+    se: Švedija
+    ch: Šveicarija
+    sy: Sirija
+    tw: Taivanas
+    tj: Tadžikistanas
+    tz: Tanzanija
+    th: Tailandas
+    tg: Eiti
+    tk: Tokelau
+    to: Tonga
+    tt: Trinidadas ir Tobagas
+    tn: Tunisas
+    tr: Turkija
+    tm: Turkmėnistanas
+    tc: Terkso ir Kaikoso salos
+    tv: Tuvalu
+    vi: JAV Mergelių salos
+    ug: Uganda
+    ua: Ukraina
+    ae: Jungtiniai Arabų Emyratai
+    gb: Didžioji Britanija
+    us: Jungtinės Valstijos
+    uy: Urugvajus
+    uz: Uzbekistanas
+    vu: Vanuatu
+    va: Vatikanas
+    ve: Venesuela
+    vn: Vietnamas
+    wf: Volis ir Futūna
+    eh: Vakarinė Sachara
+    ye: Jemenas
+    zm: Zambija
+    zw: Zimbabvė

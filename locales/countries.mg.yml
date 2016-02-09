@@ -1,0 +1,243 @@
+---
+mg:
+  iso3166:
+    af: Afghanistan
+    al: Albania
+    dz: Alzeria
+    as: American Samoa
+    ad: Andorra
+    ao: Angola
+    ai: Anguilla
+    aq: Tendrontany Atsimo
+    ag: Antigua sy Barbuda
+    ar: Arzantina
+    am: Armenia
+    aw: Ao Aruba
+    au: Aostralia
+    at: Aotrisy
+    az: Azerbaijan
+    bs: Bahamasy
+    bh: Bahrain
+    bd: Bangladesy
+    bb: Barbados
+    by: Belarosia
+    be: Belzika
+    bz: Belize
+    bj: Benin
+    bm: Bermudes
+    bt: Bhutan
+    bo: Bolivia
+    ba: Bosnia sy Herzegovina
+    bw: Botsoana
+    br: Brezila
+    io: British Indian Ocean Territory
+    vg: British Virgin Islands
+    bn: Broney
+    bg: Bolgaria
+    bf: Burkina Faso
+    bi: Burundi
+    kh: Kambodza
+    cm: Madagascar
+    ca: Kanada
+    cv: Cape Verde
+    ky: Nosy Cayman
+    cf: Repoblikan'i Afrika Afovoany
+    td: Tchad
+    cl: Shily
+    cn: Shina
+    cx: Krismasy Island
+    cc: Cocos Islands
+    co: Kolombia
+    km: Comores
+    ck: Nosy Cook
+    cr: Costa Rica
+    hr: Kroasia
+    cu: Kiobà
+    cw: Curaçao
+    cy: Sipra
+    cz: Repoblika Tcheky
+    cd: Repoblika Demokratikan'i Congo
+    dk: Danemark
+    dj: Djibouti
+    dm: Dominica
+    do: Repoblika Dominikanina
+    tl: Timor Atsinanana
+    ec: Ekoatera
+    eg: Ejipta
+    sv: Ny Mpamonjy
+    gq: Ginea Ekoatorialy
+    er: Eritrea
+    ee: Estonia
+    et: Etiopia
+    fk: Nosy Malouines
+    fo: Nosy Faroe
+    fj: Fidji
+    fi: Finlandy
+    fr: Frantsa
+    pf: Madagascar
+    ga: Gabon
+    gm: Gambia
+    ge: Georgia
+    de: Alemaina
+    gh: Ghana
+    gi: Gibraltar
+    gr: Gresy
+    gl: Groenlandy
+    gd: Grenady
+    gu: Guam
+    gt: Guatemala
+    gg: Guernsey
+    gn: Ginea
+    gw: Guinée-Bissau
+    gy: Goiana
+    ht: Haiti
+    hn: Honduras
+    hk: Hong Kong
+    hu: Hongria
+    is: Islandy
+    in: India
+    id: Indonezia
+    ir: Iran
+    iq: Irak
+    ie: Irlandy
+    im: Nosy Man
+    il: Isiraely
+    it: Italia
+    ci: Côte d'Ivoire
+    jm: Jamaika
+    jp: Japana
+    je: Jersey
+    jo: Jordana
+    kz: Kazakhstana
+    ke: Kenya
+    ki: Kiribati
+    xk: Kosovo
+    kw: Koety
+    kg: Kyrgyzstan
+    la: Laos
+    lv: Letonia
+    lb: Libanona
+    ls: Lesotho
+    lr: Liberia
+    ly: Libya
+    li: Liechtenstein
+    lt: Litoania
+    lu: Luxembourg
+    mo: Macao
+    mk: Makedonia
+    mg: Madagasikara
+    mw: Malawi
+    my: Malezia
+    mv: Maldives
+    ml: Mali
+    mt: Malta
+    mh: Nosy Marshall
+    mr: Maoritania
+    mu: Maorisy
+    yt: Mayotte
+    mx: Meksika
+    fm: Mikronezia
+    md: Moldavia
+    mc: Monaco
+    mn: Mongolia
+    me: Montenegro
+    ms: Montserrat
+    ma: Maraoka
+    mz: Mozambika
+    mm: Myanmar
+    na: Namibia
+    nr: Nauru
+    np: Nepal
+    nl: Pays-Bas
+    an: Pays-Bas Antilles
+    nc: Nouvelle-Calédonie
+    nz: Novely zelandy
+    ni: Nicaragua
+    ne: Niger
+    ng: Nizeria
+    nu: Niue
+    kp: Korea Avaratra
+    mp: Northern Mariana Nosy
+    'no': Norvezy
+    om: Oman
+    pk: Pakistan
+    pw: Palau
+    ps: Palestina
+    pa: Panama
+    pg: Papouasie-Nouvelle-Guinée
+    py: Paraguay
+    pe: Però
+    ph: Filipina
+    pn: Pitcairn
+    pl: Polonina
+    pt: Portiogaly
+    pr: Puerto Rico
+    qa: Qatar
+    cg: Repoblikan'i Congo
+    re: Reunion
+    ro: Romania
+    ru: Rosia
+    rw: Rwanda
+    bl: Saint Barthelemy
+    sh: Saint Helena
+    kn: Saint Kitts sy Nevis
+    lc: Saint Lucia
+    mf: Saint Martin
+    pm: Saint Pierre sy Miquelon
+    vc: Saint Vincent sy ny Grenadines
+    ws: Samoa
+    sm: San Marino
+    st: Sao Tome sy Principe
+    sa: Arabia Saodita
+    sn: Senegal
+    rs: Serbia
+    sc: Seychelles
+    sl: Sierra Leone
+    sg: Singapore
+    sx: Sint Maarten
+    sk: Slovakia
+    si: Slovenia
+    sb: Nosy Salomon
+    so: Somalia
+    za: Afrika Atsimo
+    kr: Korea Atsimo
+    ss: Sodàna Atsimo
+    es: Espaina
+    lk: Sri Lanka
+    sd: Sodàna
+    sr: Suriname
+    sj: Svalbard sy Jan Mayen
+    sz: Soazilandy
+    se: Soeda
+    ch: Soisa
+    sy: Syria
+    tw: Taiwan
+    tj: Tajikistan
+    tz: Tanzania
+    th: Thailand
+    tg: Mandeha
+    tk: Tokelau
+    to: Tonga
+    tt: Trinidad sy Tobago
+    tn: Tonizia
+    tr: vorontsiloza
+    tm: Turkmenistan
+    tc: Nosy Turks sy Caicos
+    tv: Tuvalu
+    vi: US Virgin Islands
+    ug: Oganda
+    ua: Ukraine
+    ae: Emirà Arabo Mitambatra
+    gb: fanjakana mitambatra
+    us: Etazonia
+    uy: Uruguay
+    uz: Uzbekistan
+    vu: Vanuatu
+    va: Vatican
+    ve: Venezoela
+    vn: I Vietnam
+    wf: Wallis sy Futuna
+    eh: Sahara Andrefana
+    ye: Yemen
+    zm: Zambia
+    zw: Madagascar

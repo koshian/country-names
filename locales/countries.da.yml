@@ -1,0 +1,243 @@
+---
+da:
+  iso3166:
+    af: Afghanistan
+    al: Albanien
+    dz: Algeriet
+    as: Amerikansk Samoa
+    ad: Andorra
+    ao: Angola
+    ai: Anguilla
+    aq: Antarktis
+    ag: Antigua og Barbuda
+    ar: Argentina
+    am: Armenien
+    aw: Aruba
+    au: Australien
+    at: Østrig
+    az: Aserbajdsjan
+    bs: Bahamas
+    bh: Bahrain
+    bd: Bangladesh
+    bb: Barbados
+    by: Hviderusland
+    be: Belgien
+    bz: Belize
+    bj: Benin
+    bm: Bermuda
+    bt: Bhutan
+    bo: Bolivia
+    ba: Bosnien-Hercegovina
+    bw: Botswana
+    br: Brasilien
+    io: British Indian Ocean Territory
+    vg: Britiske Jomfruøer
+    bn: Brunei
+    bg: Bulgarien
+    bf: Burkina Faso
+    bi: Burundi
+    kh: Cambodja
+    cm: Cameroun
+    ca: Canada
+    cv: Kap Verde
+    ky: Caymanøerne
+    cf: Centralafrikanske Republik
+    td: Chad
+    cl: Chile
+    cn: Kina
+    cx: Juleøen
+    cc: Cocos Islands
+    co: Colombia
+    km: Comorerne
+    ck: Cookøerne
+    cr: Costa Rica
+    hr: Kroatien
+    cu: Cuba
+    cw: Curacao
+    cy: Cypern
+    cz: Tjekkiet
+    cd: Demokratiske Republik Congo
+    dk: Danmark
+    dj: Djibouti
+    dm: Dominica
+    do: Dominikanske republik
+    tl: Østtimor
+    ec: Ecuador
+    eg: Egypten
+    sv: Frelseren
+    gq: Ækvatorial Guinea
+    er: Eritrea
+    ee: Estland
+    et: Etiopien
+    fk: Falklandsøerne
+    fo: Færøerne
+    fj: Fiji
+    fi: Finland
+    fr: Frankrig
+    pf: Fransk Polynesien
+    ga: Gabon
+    gm: Gambia
+    ge: Georgien
+    de: Tyskland
+    gh: Ghana
+    gi: Gibraltar
+    gr: Grækenland
+    gl: Grønland
+    gd: Grenada
+    gu: Guam
+    gt: Guatemala
+    gg: Guernsey
+    gn: Guinea
+    gw: Guinea-Bissau
+    gy: Guyana
+    ht: Haiti
+    hn: Honduras
+    hk: Hongkong
+    hu: Ungarn
+    is: Island
+    in: Indien
+    id: Indonesien
+    ir: Iran
+    iq: Irak
+    ie: Irland
+    im: Isle of Man
+    il: Israel
+    it: Italien
+    ci: Elfenbenskysten
+    jm: Jamaica
+    jp: Japan
+    je: Jersey
+    jo: Jordan
+    kz: Kasakhstan
+    ke: Kenya
+    ki: Kiribati
+    xk: Kosovo
+    kw: Kuwait
+    kg: Kirgisistan
+    la: Laos
+    lv: Letland
+    lb: Libanon
+    ls: Lesotho
+    lr: Liberia
+    ly: Libyen
+    li: Liechtenstein
+    lt: Litauen
+    lu: Luxembourg
+    mo: Macao
+    mk: Makedonien
+    mg: Madagaskar
+    mw: Malawi
+    my: Malaysia
+    mv: Maldiverne
+    ml: Mali
+    mt: Malta
+    mh: Marshalløerne
+    mr: Mauretanien
+    mu: Mauritius
+    yt: Mayotte
+    mx: Mexico
+    fm: Mikronesien
+    md: Moldavien
+    mc: Monaco
+    mn: Mongoliet
+    me: Montenegro
+    ms: Montserrat
+    ma: Marokko
+    mz: Mozambique
+    mm: Myanmar
+    na: Namibia
+    nr: Nauru
+    np: Nepal
+    nl: Holland
+    an: De Nederlandske Antiller
+    nc: Ny Kaledonien
+    nz: New Zealand
+    ni: Nicaragua
+    ne: Niger
+    ng: Nigeria
+    nu: Niue
+    kp: Nordkorea
+    mp: Nordmarianerne
+    'no': Norge
+    om: Oman
+    pk: Pakistan
+    pw: Palau
+    ps: Palæstina
+    pa: Panama
+    pg: Papua Ny Guinea
+    py: Paraguay
+    pe: Peru
+    ph: Filippinerne
+    pn: Pitcairn
+    pl: Polen
+    pt: Portugal
+    pr: Puerto Rico
+    qa: Qatar
+    cg: Republikken Congo
+    re: Genforening
+    ro: Rumænien
+    ru: Rusland
+    rw: Rwanda
+    bl: Saint Barthelemy
+    sh: Saint Helena
+    kn: Saint Kitts og Nevis
+    lc: Saint Lucia
+    mf: Saint Martin
+    pm: Saint Pierre og Miquelon
+    vc: Saint Vincent og Grenadinerne
+    ws: Samoa
+    sm: San Marino
+    st: Sao Tome og Principe
+    sa: Saudi Arabien
+    sn: Senegal
+    rs: Serbien
+    sc: Seychellerne
+    sl: Sierra Leone
+    sg: Singapore
+    sx: Sint Maarten
+    sk: Slovakiet
+    si: Slovenien
+    sb: Salomonøerne
+    so: Somalia
+    za: Sydafrika
+    kr: Sydkorea
+    ss: Sydsudan
+    es: Spanien
+    lk: Sri Lanka
+    sd: Sudan
+    sr: Surinam
+    sj: Svalbard og Jan Mayen
+    sz: Swaziland
+    se: Sverige
+    ch: Schweiz
+    sy: Syrien
+    tw: Taiwan
+    tj: Tadsjikistan
+    tz: Tanzania
+    th: Thailand
+    tg: At gå
+    tk: Tokelau
+    to: Tonga
+    tt: Trinidad og Tobago
+    tn: Tunesien
+    tr: Kalkun
+    tm: Turkmenistan
+    tc: Turks- og Caicosøerne
+    tv: Tuvalu
+    vi: De Amerikanske Jomfruøer
+    ug: Uganda
+    ua: Ukraine
+    ae: Forenede Arabiske Emirater
+    gb: Det Forenede Kongerige
+    us: Forenede Stater
+    uy: Uruguay
+    uz: Usbekistan
+    vu: Vanuatu
+    va: Vatikanet
+    ve: Venezuela
+    vn: Vietnam
+    wf: Wallis og Futuna
+    eh: Vestsahara
+    ye: Yemen
+    zm: Zambia
+    zw: Zimbabwe

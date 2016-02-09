@@ -1,0 +1,243 @@
+---
+eo:
+  iso3166:
+    af: Afganio
+    al: Albanio
+    dz: Alĝerio
+    as: Usona Samoo
+    ad: Andoro
+    ao: Angolo
+    ai: Angvilo
+    aq: Antarkto
+    ag: Antigvo-Barbudo
+    ar: Argentino
+    am: Armenio
+    aw: Aruba
+    au: Aŭstralio
+    at: Aŭstrio
+    az: Azerbajĝano
+    bs: Bahamoj
+    bh: Bahrain
+    bd: Bangladeŝo
+    bb: Barbados
+    by: Belorusio
+    be: Belgio
+    bz: Belizo
+    bj: Benino
+    bm: Bermudas
+    bt: Butano
+    bo: Bolivio
+    ba: Bosnio kaj Hercegovino
+    bw: Bocvano
+    br: Brazilo
+    io: Britaj Virgulininsuloj
+    vg: Britaj Virgulininsuloj
+    bn: Brunejo
+    bg: Bulgario
+    bf: Burkina Faso
+    bi: Burundo
+    kh: Kamboĝo
+    cm: Kamerunio
+    ca: Kanado
+    cv: Kaboverdo
+    ky: Kajmanaj insuloj
+    cf: Centra Afrika Respubliko
+    td: Ĉadio
+    cl: Ĉilio
+    cn: Ĉinio
+    cx: Kristnaskinsulo
+    cc: Kokosinsuloj Insuloj
+    co: Kolombio
+    km: Komoroj
+    ck: Kukinsuloj
+    cr: Kostariko
+    hr: Kroatio
+    cu: Kubo
+    cw: Curacao
+    cy: Kipro
+    cz: Ĉeĥio
+    cd: Demokratia Respubliko Kongo
+    dk: Danio
+    dj: Ĝibuto
+    dm: Dominiko
+    do: Dominika Respubliko
+    tl: Orienta Timoro
+    ec: Ekvadoro
+    eg: Egiptujo
+    sv: La Savinto
+    gq: Ekvatora Gvineo
+    er: Eritrea
+    ee: Estonio
+    et: Etiopio
+    fk: Falkland Islands
+    fo: Ferooj
+    fj: Fiĝioj
+    fi: Finlandia
+    fr: Francio
+    pf: Franca Polinezio
+    ga: Gabono
+    gm: Gambia
+    ge: Kartvelio
+    de: Germanio
+    gh: Ganao
+    gi: Ĝibraltaro
+    gr: Grekio
+    gl: Gronlando
+    gd: Grenado
+    gu: Gvamo
+    gt: Guatemala
+    gg: Ĝerzjako
+    gn: Gvineo
+    gw: Gvineo-Bisaŭo
+    gy: Gujano
+    ht: Haitio
+    hn: Honduras
+    hk: Honkongo
+    hu: Hungario
+    is: Islando
+    in: Barato
+    id: Indonesia
+    ir: Irano
+    iq: Irako
+    ie: Irlando
+    im: Manksinsulo
+    il: Israelo
+    it: Italio
+    ci: Eburbordo
+    jm: Jamajko
+    jp: Japanio
+    je: Ĵerzo
+    jo: Jordan
+    kz: Kazaĥio
+    ke: Kenia
+    ki: Kiribato
+    xk: Kosovo
+    kw: Kuvajto
+    kg: Kirgizio
+    la: Laoso
+    lv: Latvia
+    lb: Libano
+    ls: Lesoto
+    lr: Liberia
+    ly: Libya
+    li: Liĥtenŝtejno
+    lt: Litovio
+    lu: Luksemburgio
+    mo: Macao
+    mk: Makedonio
+    mg: Madagaskaro
+    mw: Malavio
+    my: Malajzio
+    mv: Maldives
+    ml: Mali
+    mt: Malto
+    mh: Marŝala Insularo
+    mr: Maŭritanio
+    mu: Mauritius
+    yt: Majoto
+    mx: Meksiko
+    fm: Mikronezio
+    md: Moldavio
+    mc: Monaco
+    mn: Mongolio
+    me: Montenegro
+    ms: Montserato
+    ma: Maroko
+    mz: Mozambiko
+    mm: Birmo
+    na: Namibio
+    nr: Nauro
+    np: Nepalo
+    nl: Nederlando
+    an: Nederlandaj Antiloj
+    nc: Nova Kaledonio
+    nz: Nov-Zelando
+    ni: Nikaragvo
+    ne: Niĝero
+    ng: Niĝerio
+    nu: Niuo
+    kp: Nord-Koreio
+    mp: Nord-Marianoj
+    'no': Norvegio
+    om: Oman
+    pk: Pakistano
+    pw: Palaŭo
+    ps: Palestino
+    pa: Panamo
+    pg: Papua Nova Gvineo
+    py: Paragvajo
+    pe: Peruo
+    ph: Filipinoj
+    pn: Pitkarna
+    pl: Pollando
+    pt: Portugalio
+    pr: Porto-Riko
+    qa: Qatar
+    cg: Respubliko de Kongo
+    re: Kunveno
+    ro: Rumanio
+    ru: Rusio
+    rw: Ruando
+    bl: Saint Barthelemy
+    sh: Saint Helena
+    kn: Sankta-Kito kaj Neviso
+    lc: Sankta Lucio
+    mf: Saint Martin
+    pm: Sankta-Piero kaj Mikelono
+    vc: Sankta Vincento kaj Grenadinoj
+    ws: Samoo
+    sm: San Marino
+    st: Sao-Tomeo kaj Principeo
+    sa: Saŭdiarabio
+    sn: Senegalo
+    rs: Serbio
+    sc: Sejŝeloj
+    sl: Sieraleono
+    sg: Singapuro
+    sx: Sint Maarten
+    sk: Slovakio
+    si: Slovenio
+    sb: Salomonoj
+    so: Somalio
+    za: Sudafriko
+    kr: Sudkoreio
+    ss: Suda Sudano
+    es: Hispanio
+    lk: Srilanko
+    sd: Sudano
+    sr: Surinamo
+    sj: Svalbardo kaj Jan Mayen
+    sz: Svazilando
+    se: Svedio
+    ch: Svislando
+    sy: Sirio
+    tw: Tajvano
+    tj: Taĝikio
+    tz: Tanzanio
+    th: Tajlando
+    tg: Iri
+    tk: Tokelao
+    to: Tonga
+    tt: Trinidado kaj Tobago
+    tn: Tunisia
+    tr: Turkio
+    tm: Turkmenio
+    tc: Turkoj kaj Kajkoj
+    tv: Tuvalo
+    vi: Virgaj Insuloj
+    ug: Ugando
+    ua: Ukrainio
+    ae: Unuiĝintaj Arabaj Emirlandoj
+    gb: Unuiĝinta Reĝlando
+    us: Usono
+    uy: Urugvajo
+    uz: Uzbekio
+    vu: Vanuatuo
+    va: Vatikana
+    ve: Venezuelo
+    vn: Vjetnamio
+    wf: Valiso kaj Futuno
+    eh: Okcidenta Saharo
+    ye: Jemeno
+    zm: Zambio
+    zw: Zimbabvo

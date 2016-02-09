@@ -1,0 +1,243 @@
+---
+id:
+  iso3166:
+    af: Afganistan
+    al: Albania
+    dz: Aljazair
+    as: Samoa Amerika
+    ad: Andorra
+    ao: Angola
+    ai: Anguilla
+    aq: Antartika
+    ag: Antigua dan Barbuda
+    ar: Argentina
+    am: Armenia
+    aw: Aruba
+    au: Australia
+    at: Austria
+    az: Azerbaijan
+    bs: Bahama
+    bh: Bahrain
+    bd: Bangladesh
+    bb: Barbados
+    by: Belarus
+    be: Belgia
+    bz: Belize
+    bj: Benin
+    bm: Bermuda
+    bt: Bhutan
+    bo: Bolivia
+    ba: Bosnia dan Herzegovina
+    bw: Botswana
+    br: Brazil
+    io: British Indian Ocean Territory
+    vg: Kepulauan Virgin Inggris
+    bn: Brunei
+    bg: Bulgaria
+    bf: Burkina Faso
+    bi: Burundi
+    kh: Kamboja
+    cm: Kamerun
+    ca: Kanada
+    cv: Cape Verde
+    ky: Pulau cayman
+    cf: Republik Afrika Tengah
+    td: Chad
+    cl: Chili
+    cn: Cina
+    cx: Christmas Island
+    cc: Kepulauan Cocos
+    co: Kolumbia
+    km: Komoro
+    ck: Kepulauan Cook
+    cr: Kosta Rika
+    hr: Kroasia
+    cu: Kuba
+    cw: Curacao
+    cy: Siprus
+    cz: Republik Ceko
+    cd: Republik Demokratik Kongo
+    dk: Denmark
+    dj: Djibouti
+    dm: Dominica
+    do: Republik Dominika
+    tl: Timor Timur
+    ec: Ekuador
+    eg: Mesir
+    sv: Sang Penyelamat
+    gq: Guinea ekuator
+    er: Eritrea
+    ee: Estonia
+    et: Etiopia
+    fk: Kepulauan Falkland
+    fo: Kepulauan Faroe
+    fj: Fiji
+    fi: Finlandia
+    fr: Perancis
+    pf: Polinesia Perancis
+    ga: Gabon
+    gm: Gambia
+    ge: Georgia
+    de: Jerman
+    gh: Ghana
+    gi: Gibraltar
+    gr: Yunani
+    gl: Tanah penggembalaan
+    gd: Grenada
+    gu: Guam
+    gt: Guatemala
+    gg: Guernsey
+    gn: Guinea
+    gw: Guinea-Bissau
+    gy: Guyana
+    ht: Haiti
+    hn: Honduras
+    hk: Hongkong
+    hu: Hongaria
+    is: Islandia
+    in: India
+    id: Indonesia
+    ir: Iran
+    iq: Irak
+    ie: Irlandia
+    im: Pulau manusia
+    il: Israel
+    it: Italia
+    ci: pantai Gading
+    jm: Jamaika
+    jp: Jepang
+    je: Baju kaos
+    jo: Jordan
+    kz: Kazakhstan
+    ke: Kenya
+    ki: Kiribati
+    xk: Kosovo
+    kw: Kuwait
+    kg: Kyrgyzstan
+    la: Laos
+    lv: Latvia
+    lb: Libanon
+    ls: Lesotho
+    lr: Liberia
+    ly: Libya
+    li: Liechtenstein
+    lt: Lithuania
+    lu: Luksemburg
+    mo: Macao
+    mk: Makedonia
+    mg: Madagaskar
+    mw: Malawi
+    my: Malaysia
+    mv: Maladewa
+    ml: Mali
+    mt: Malta
+    mh: Pulau Marshall
+    mr: Mauritania
+    mu: Mauritius
+    yt: Mayotte
+    mx: Mexico
+    fm: Mikronesia
+    md: Moldavia
+    mc: Monako
+    mn: Mongolia
+    me: Montenegro
+    ms: Montserrat
+    ma: Kulit kambing yg halus
+    mz: Mozambik
+    mm: Myanmar
+    na: Namibia
+    nr: Nauru
+    np: Nepal
+    nl: Belanda
+    an: Antillen Belanda
+    nc: Kaledonia Baru
+    nz: Selandia Baru
+    ni: Nikaragua
+    ne: Niger
+    ng: Nigeria
+    nu: Niue
+    kp: Korea Utara
+    mp: Kepulauan Mariana Utara
+    'no': Norwegia
+    om: Oman
+    pk: Pakistan
+    pw: Palau
+    ps: Palestina
+    pa: Panama
+    pg: Papua Nugini
+    py: Paraguai
+    pe: Peru
+    ph: Pilipina
+    pn: Pitcairn
+    pl: Polandia
+    pt: Portugal
+    pr: Puerto Rico
+    qa: Qatar
+    cg: Republik Kongo
+    re: Reuni
+    ro: Rumania
+    ru: Rusia
+    rw: Rwanda
+    bl: Saint Barthelemy
+    sh: Saint Helena
+    kn: Saint Kitts dan Nevis
+    lc: Saint Lucia
+    mf: Saint Martin
+    pm: Saint Pierre dan Miquelon
+    vc: Saint Vincent and the Grenadines
+    ws: Samoa
+    sm: San Marino
+    st: Sao Tome dan Principe
+    sa: Arab Saudi
+    sn: Senegal
+    rs: Serbia
+    sc: Seychelles
+    sl: Sierra Leone
+    sg: Singapura
+    sx: Sint Maarten
+    sk: Slovakia
+    si: Slovenia
+    sb: Pulau Solomon
+    so: Somalia
+    za: Afrika Selatan
+    kr: Korea Selatan
+    ss: Sudan Selatan
+    es: Spanyol
+    lk: Sri Lanka
+    sd: Sudan
+    sr: Suriname
+    sj: Svalbard dan Jan Mayen
+    sz: Swaziland
+    se: Swedia
+    ch: Swiss
+    sy: Suriah
+    tw: Taiwan
+    tj: Tajikistan
+    tz: Tanzania
+    th: Thailand
+    tg: Untuk pergi
+    tk: Tokelau
+    to: Tonga
+    tt: Trinidad dan Tobago
+    tn: Tunisia
+    tr: Turki
+    tm: Turkmenistan
+    tc: PulauTurks dan Caicos
+    tv: Tuvalu
+    vi: US Virgin Islands
+    ug: Uganda
+    ua: Ukraina
+    ae: Uni Emirat Arab
+    gb: Inggris
+    us: Amerika Serikat
+    uy: Uruguay
+    uz: Uzbekistan
+    vu: Vanuatu
+    va: Vatikan
+    ve: Venezuela
+    vn: Vietnam
+    wf: Wallis dan Futuna
+    eh: Sahara Barat
+    ye: Yaman
+    zm: Zambia
+    zw: Zimbabwe

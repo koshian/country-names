@@ -1,0 +1,243 @@
+---
+nl:
+  iso3166:
+    af: Afghanistan
+    al: Albanië
+    dz: Algerije
+    as: Amerikaans Samoa
+    ad: Andorra
+    ao: Angola
+    ai: Anguilla
+    aq: Antarctica
+    ag: Antigua en Barbuda
+    ar: Argentinië
+    am: Armenië
+    aw: Aruba
+    au: Australië
+    at: Oostenrijk
+    az: Azerbeidzjan
+    bs: Bahamas
+    bh: Bahrein
+    bd: Bangladesh
+    bb: Barbados
+    by: Wit-Rusland
+    be: België
+    bz: Belize
+    bj: Benin
+    bm: Bermuda
+    bt: Bhutan
+    bo: Bolivia
+    ba: Bosnië en Herzegovina
+    bw: Botswana
+    br: Brazilië
+    io: Brits Indische Oceaan Territorium
+    vg: Britse Maagdeneilanden
+    bn: Brunei
+    bg: Bulgarije
+    bf: Burkina Faso
+    bi: Boeroendi
+    kh: Cambodja
+    cm: Kameroen
+    ca: Canada
+    cv: Kaapverdië
+    ky: Cayman eilanden
+    cf: Centraal Afrikaanse Republiek
+    td: Tsjaad
+    cl: Chili
+    cn: China
+    cx: Christmas Island
+    cc: Cocos Eilanden
+    co: Colombia
+    km: Comoren
+    ck: Cook Eilanden
+    cr: Costa Rica
+    hr: Kroatië
+    cu: Cuba
+    cw: Curacao
+    cy: Cyprus
+    cz: Tsjechische Republiek
+    cd: Democratische Republiek Congo
+    dk: Denemarken
+    dj: Djibouti
+    dm: Dominica
+    do: Dominicaanse Republiek
+    tl: Oost Timor
+    ec: Ecuador
+    eg: Egypte
+    sv: De Heiland
+    gq: Equatoriaal-Guinea
+    er: Eritrea
+    ee: Estland
+    et: Ethiopië
+    fk: Falkland Eilanden
+    fo: Faeröer
+    fj: Fiji
+    fi: Finland
+    fr: Frankrijk
+    pf: Frans-Polynesië
+    ga: Gabon
+    gm: Gambia
+    ge: Georgië
+    de: Duitsland
+    gh: Ghana
+    gi: Gibraltar
+    gr: Griekenland
+    gl: Groenland
+    gd: Grenada
+    gu: Guam
+    gt: Guatemala
+    gg: Guernsey
+    gn: Guinea
+    gw: Guinee-Bissau
+    gy: Guyana
+    ht: Haïti
+    hn: Honduras
+    hk: Hongkong
+    hu: Hongarije
+    is: IJsland
+    in: Indië
+    id: Indonesië
+    ir: Iran
+    iq: Irak
+    ie: Ierland
+    im: Isle of Man
+    il: Israël
+    it: Italië
+    ci: Ivoorkust
+    jm: Jamaica
+    jp: Japan
+    je: Jersey
+    jo: Jordanië
+    kz: Kazachstan
+    ke: Kenia
+    ki: Kiribati
+    xk: Kosovo
+    kw: Koeweit
+    kg: Kirgizië
+    la: Laos
+    lv: Letland
+    lb: Libanon
+    ls: Lesotho
+    lr: Liberia
+    ly: Libië
+    li: Liechtenstein
+    lt: Litouwen
+    lu: Luxemburg
+    mo: Macao
+    mk: Macedonië
+    mg: Madagascar
+    mw: Malawi
+    my: Maleisië
+    mv: Maldiven
+    ml: Mali
+    mt: Malta
+    mh: Marshall eilanden
+    mr: Mauritanië
+    mu: Mauritius
+    yt: Mayotte
+    mx: Mexico
+    fm: Micronesië
+    md: Moldavië
+    mc: Monaco
+    mn: Mongolië
+    me: Montenegro
+    ms: Montserrat
+    ma: Marokko
+    mz: Mozambique
+    mm: Myanmar
+    na: Namibië
+    nr: Nauru
+    np: Nepal
+    nl: Nederland
+    an: Nederlandse Antillen
+    nc: Nieuw-Caledonië
+    nz: Nieuw Zeeland
+    ni: Nicaragua
+    ne: Niger
+    ng: Nigeria
+    nu: Niue
+    kp: Noord Korea
+    mp: Noordelijke Marianen
+    'no': Noorwegen
+    om: Oman
+    pk: Pakistan
+    pw: Palau
+    ps: Palestina
+    pa: Panama
+    pg: Papoea-Nieuw-Guinea
+    py: Paraguay
+    pe: Peru
+    ph: Filippijnen
+    pn: Pitcairn
+    pl: Polen
+    pt: Portugal
+    pr: Puerto Rico
+    qa: Katar
+    cg: Republiek Congo
+    re: Bijeenkomst
+    ro: Roemenië
+    ru: Rusland
+    rw: Rwanda
+    bl: Saint Barthelemy
+    sh: Saint Helena
+    kn: Saint Kitts en Nevis
+    lc: Saint Lucia
+    mf: Saint Martin
+    pm: Saint-Pierre en Miquelon
+    vc: Saint Vincent en de Grenadines
+    ws: Samoa
+    sm: San Marino
+    st: Sao Tomé en Principe
+    sa: Saoedi-Arabië
+    sn: Senegal
+    rs: Servië
+    sc: Seychellen
+    sl: Sierra Leone
+    sg: Singapore
+    sx: Sint Maarten
+    sk: Slowakije
+    si: Slovenië
+    sb: Solomon Eilanden
+    so: Somalië
+    za: Zuid-Afrika
+    kr: Zuid-Korea
+    ss: Zuid-Soedan
+    es: Spanje
+    lk: Sri Lanka
+    sd: Soedan
+    sr: Suriname
+    sj: Svalbard en Jan Mayen
+    sz: Swaziland
+    se: Zweden
+    ch: Zwitserland
+    sy: Syrië
+    tw: Taiwan
+    tj: Tadzjikistan
+    tz: Tanzania
+    th: Thailand
+    tg: Gaan
+    tk: Tokelau
+    to: Tonga
+    tt: Trinidad en Tobago
+    tn: Tunesië
+    tr: Turkije
+    tm: Turkmenistan
+    tc: Turks- en Caicoseilanden
+    tv: Tuvalu
+    vi: US Virgin Islands
+    ug: Oeganda
+    ua: Oekraïne
+    ae: Verenigde Arabische Emiraten
+    gb: Verenigd Koningkrijk
+    us: Verenigde Staten
+    uy: Uruguay
+    uz: Oezbekistan
+    vu: Vanuatu
+    va: Vaticaan
+    ve: Venezuela
+    vn: Vietnam
+    wf: Wallis en Futuna
+    eh: Westelijke Sahara
+    ye: Jemen
+    zm: Zambia
+    zw: Zimbabwe

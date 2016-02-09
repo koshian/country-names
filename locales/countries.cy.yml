@@ -1,0 +1,243 @@
+---
+cy:
+  iso3166:
+    af: Afghanistan
+    al: Albania
+    dz: Algeria
+    as: American Samoa
+    ad: Andorra
+    ao: Angola
+    ai: Anguilla
+    aq: Antarctica
+    ag: Antigua a Barbuda
+    ar: Yr Ariannin
+    am: Armenia
+    aw: Aruba
+    au: Awstralia
+    at: Awstria
+    az: Azerbaijan
+    bs: Bahamas
+    bh: Bahrain
+    bd: Bangladesh
+    bb: Barbados
+    by: Belarws
+    be: Gwlad Belg
+    bz: Belize
+    bj: Benin
+    bm: Bermuda
+    bt: Bhutan
+    bo: Bolivia
+    ba: Bosnia a Herzegovina
+    bw: Botswana
+    br: Brasil
+    io: Tiriogaeth Brydeinig Cefnfor India
+    vg: Ynysoedd Virgin Prydeinig
+    bn: Brunei
+    bg: Bwlgaria
+    bf: Burkina Faso
+    bi: Burundi
+    kh: Cambodia
+    cm: Cameroon
+    ca: Canada
+    cv: Cape Verde
+    ky: Ynysoedd Cayman
+    cf: Gweriniaeth Canolbarth Affrica
+    td: Chad
+    cl: Chile
+    cn: Tsieina
+    cx: Ynys y Nadolig
+    cc: Ynysoedd Cocos
+    co: Colombia
+    km: Comoros
+    ck: Ynysoedd Cook
+    cr: Costa Rica
+    hr: Croatia
+    cu: Cuba
+    cw: Curacao
+    cy: Cyprus
+    cz: Gweriniaeth Tsiec
+    cd: Gweriniaeth Ddemocrataidd y Congo
+    dk: Denmarc
+    dj: Djibouti
+    dm: Dominica
+    do: Gweriniaeth Dominica
+    tl: Dwyrain Timor
+    ec: Ecuador
+    eg: Yr Aifft
+    sv: Mae'r Savior
+    gq: Gyhydeddol Guinea
+    er: Eritrea
+    ee: Estonia
+    et: Ethiopia
+    fk: Ynysoedd y Falklands
+    fo: Ynysoedd y Faroe
+    fj: Fiji
+    fi: Ffindir
+    fr: Ffrainc
+    pf: Polynesia Ffrengig
+    ga: Gabon
+    gm: Gambia
+    ge: Georgia
+    de: Yr Almaen
+    gh: Ghana
+    gi: Gibraltar
+    gr: Gwlad Groeg
+    gl: Ynys Las
+    gd: Grenada
+    gu: Guam
+    gt: Guatemala
+    gg: Guernsey
+    gn: Guinea
+    gw: Guinea-Bissau
+    gy: Guyana
+    ht: Haiti
+    hn: Honduras
+    hk: Hong Kong
+    hu: Hwngari
+    is: Gwlad yr Iâ
+    in: India
+    id: Indonesia
+    ir: Iran
+    iq: Irac
+    ie: Iwerddon
+    im: Ynys Manaw
+    il: Israel
+    it: Yr Eidal
+    ci: Arfordir Ifori
+    jm: Jamaica
+    jp: Japan
+    je: Jersey
+    jo: Jordan
+    kz: Kazakhstan
+    ke: Kenya
+    ki: Kiribati
+    xk: Kosovo
+    kw: Kuwait
+    kg: Kyrgyzstan
+    la: Laos
+    lv: Latfia
+    lb: Libanus
+    ls: Lesotho
+    lr: Liberia
+    ly: Libya
+    li: Liechtenstein
+    lt: Lithuania
+    lu: Lwcsembwrg
+    mo: Macao
+    mk: Macedonia
+    mg: Madagascar
+    mw: Malawi
+    my: Malaysia
+    mv: Maldives
+    ml: Mali
+    mt: Malta
+    mh: Ynysoedd Marshall
+    mr: Mauritania
+    mu: Mauritius
+    yt: Mayotte
+    mx: Mecsico
+    fm: Micronesia
+    md: Moldavia
+    mc: Monaco
+    mn: Mongolia
+    me: Montenegro
+    ms: Montserrat
+    ma: Moroco
+    mz: Mozambique
+    mm: Myanmar
+    na: Namibia
+    nr: Nauru
+    np: Nepal
+    nl: Iseldiroedd
+    an: Antilles yr Iseldiroedd
+    nc: Caledonia Newydd
+    nz: Seland Newydd
+    ni: Nicaragua
+    ne: Niger
+    ng: Nigeria
+    nu: Niue
+    kp: Gogledd Corea
+    mp: Ynysoedd Gogledd Mariana
+    'no': Norwy
+    om: Oman
+    pk: Pakistan
+    pw: Palau
+    ps: Palesteina
+    pa: Panama
+    pg: Papwa Gini Newydd
+    py: Paraguay
+    pe: Peru
+    ph: Philippines
+    pn: Pitcairn
+    pl: Gwlad pwyl
+    pt: Portugal
+    pr: Puerto Rico
+    qa: Qatar
+    cg: Gweriniaeth y Congo
+    re: Aduniad
+    ro: Romania
+    ru: Rwsia
+    rw: Rwanda
+    bl: Saint Barthelemy
+    sh: Saint Helena
+    kn: Saint Kitts a Nevis
+    lc: Saint Lucia
+    mf: Saint Martin
+    pm: Saint Pierre a Miquelon
+    vc: Saint Vincent a'r Grenadines
+    ws: Samoa
+    sm: San Marino
+    st: Sao Tome a Principe
+    sa: Saudi Arabia
+    sn: Sénégal
+    rs: Serbia
+    sc: Seychelles
+    sl: Sierra Leone
+    sg: Singapore
+    sx: Sint Maarten
+    sk: Slofacia
+    si: Slofenia
+    sb: Ynysoedd Solomon
+    so: Somalia
+    za: De Affrica
+    kr: De Korea
+    ss: South Sudan
+    es: Sbaen
+    lk: Sri Lanka
+    sd: Sudan
+    sr: Suriname
+    sj: Svalbard a Jan Mayen
+    sz: Swaziland
+    se: Sweden
+    ch: Y Swistir
+    sy: Syria
+    tw: Taiwan
+    tj: Tajikistan
+    tz: Tanzania
+    th: Gwlad Thai
+    tg: Togo
+    tk: Tokelau
+    to: Tonga
+    tt: Trinidad a Tobago
+    tn: Tunisia
+    tr: Twrci
+    tm: Turkmenistan
+    tc: Ynysoedd Turks a Caicos
+    tv: Twfalw
+    vi: Ynysoedd y Wyryf Unol Daleithiau
+    ug: Uganda
+    ua: Wcráin
+    ae: Emiradau Arabaidd Unedig
+    gb: Deyrnas Unedig
+    us: Unol Daleithiau
+    uy: Uruguay
+    uz: Uzbekistan
+    vu: Vanuatu
+    va: Fatican
+    ve: Venezuela
+    vn: Vietnam
+    wf: Wallis a Futuna
+    eh: Gorllewin Sahara
+    ye: Yemen
+    zm: Zambia
+    zw: Zimbabwe

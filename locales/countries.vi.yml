@@ -1,0 +1,243 @@
+---
+vi:
+  iso3166:
+    af: Afghanistan
+    al: Albania
+    dz: Algeria
+    as: American Samoa
+    ad: Andorra
+    ao: Angola
+    ai: Anguilla
+    aq: Nam Cực
+    ag: Antigua và Barbuda
+    ar: Argentina
+    am: Armenia
+    aw: Aruba
+    au: Úc
+    at: Áo
+    az: Azerbaijan
+    bs: Bahamas
+    bh: Bahrain
+    bd: Bangladesh
+    bb: Barbados
+    by: Belarus
+    be: nước Bỉ
+    bz: Belize
+    bj: Benin
+    bm: Bermuda
+    bt: Bhutan
+    bo: Bolivia
+    ba: Bosnia và Herzegovina
+    bw: Botswana
+    br: Brazil
+    io: British Indian Ocean Territory
+    vg: Quần đảo British Virgin
+    bn: Brunei
+    bg: Bulgaria
+    bf: Burkina Faso
+    bi: Burundi
+    kh: Campuchia
+    cm: Cameroon
+    ca: Canada
+    cv: Cape Verde
+    ky: Quần đảo Cayman
+    cf: Cộng hòa trung phi
+    td: Cá hồng
+    cl: Chile
+    cn: Trung Quốc
+    cx: Đảo Christmas
+    cc: Quần đảo Cocos
+    co: Colombia
+    km: Comoros
+    ck: Quần đảo Cook
+    cr: Costa Rica
+    hr: Croatia
+    cu: Cuba
+    cw: Rượu cam bì
+    cy: Síp
+    cz: Cộng hòa Séc
+    cd: Cộng hòa Dân chủ Congo
+    dk: Đan Mạch
+    dj: Djibouti
+    dm: Dominica
+    do: Cộng hòa Dominica
+    tl: Đông Timor
+    ec: Ecuador
+    eg: Ai Cập
+    sv: Vị cứu tinh
+    gq: Equatorial Guinea
+    er: Eritrea
+    ee: Estonia
+    et: Ethiopia
+    fk: Quần đảo Falkland
+    fo: Quần đảo Faroe
+    fj: Fiji
+    fi: Phần Lan
+    fr: Pháp
+    pf: French Polynesia
+    ga: Gabon
+    gm: Gambia
+    ge: Georgia
+    de: nước Đức
+    gh: Ghana
+    gi: Gibraltar
+    gr: Hy Lạp
+    gl: Greenland
+    gd: Grenada
+    gu: Guam
+    gt: Guatemala
+    gg: Guernsey
+    gn: Guinea
+    gw: Guinea-Bissau
+    gy: Guyana
+    ht: Haiti
+    hn: Honduras
+    hk: Hồng Kông
+    hu: Hungary
+    is: Iceland
+    in: Ấn Độ
+    id: Indonesia
+    ir: Iran
+    iq: Iraq
+    ie: Ireland
+    im: Isle of Man
+    il: Israel
+    it: Ý
+    ci: bờ biển Ngà
+    jm: Jamaica
+    jp: Nhật Bản
+    je: Áo nịt len
+    jo: Jordan
+    kz: Kazakhstan
+    ke: Kenya
+    ki: Kiribati
+    xk: Kosovo
+    kw: Kuwait
+    kg: Kyrgyzstan
+    la: Lào
+    lv: Latvia
+    lb: Lebanon
+    ls: Lesotho
+    lr: Liberia
+    ly: Libya
+    li: Liechtenstein
+    lt: Nước Lithuania
+    lu: Luxembourg
+    mo: Macao
+    mk: Macedonia
+    mg: Madagascar
+    mw: Malawi
+    my: Malaysia
+    mv: Maldives
+    ml: Mali
+    mt: Malta
+    mh: đảo Marshall
+    mr: Mauritania
+    mu: Mauritius
+    yt: Mayotte
+    mx: Mexico
+    fm: Micronesia
+    md: Moldavia
+    mc: Monaco
+    mn: Mông Cổ
+    me: Montenegro
+    ms: Montserrat
+    ma: Morocco
+    mz: Mozambique
+    mm: Miến Điện
+    na: Namibia
+    nr: Nauru
+    np: Nepal
+    nl: nước Hà Lan
+    an: Antille thuộc Hà Lan
+    nc: New Caledonia
+    nz: New Zealand
+    ni: Nicaragua
+    ne: Niger
+    ng: Nigeria
+    nu: Niue
+    kp: Bắc Triều Tiên
+    mp: Quần đảo Bắc Mariana
+    'no': Na Uy
+    om: Oman
+    pk: Pakistan
+    pw: Palau
+    ps: Palestine
+    pa: Panama
+    pg: Papua New Guinea
+    py: Paraguay
+    pe: Peru
+    ph: Philippines
+    pn: Pitcairn
+    pl: Ba Lan
+    pt: Bồ Đào Nha
+    pr: Puerto Rico
+    qa: Qatar
+    cg: Cộng hòa Congo
+    re: Sum họp
+    ro: Romania
+    ru: Nga
+    rw: Rwanda
+    bl: Saint Barthelemy
+    sh: Saint Helena
+    kn: Saint Kitts và Nevis
+    lc: Saint Lucia
+    mf: Saint Martin
+    pm: Saint Pierre và Miquelon
+    vc: Saint Vincent và Grenadines
+    ws: Samoa
+    sm: San Marino
+    st: Sao Tome và Principe
+    sa: Saudi Arabia
+    sn: Senegal
+    rs: Serbia
+    sc: Seychelles
+    sl: Sierra Leone
+    sg: Singapore
+    sx: Sint Maarten
+    sk: Slovakia
+    si: Slovenia
+    sb: Quần đảo Solomon
+    so: Somalia
+    za: Nam Phi
+    kr: Nam Triều Tiên
+    ss: phía nam Sudan
+    es: Tây Ban Nha
+    lk: Sri Lanka
+    sd: Sudan
+    sr: Suriname
+    sj: Svalbard và Jan Mayen
+    sz: Swaziland
+    se: Thụy Điển
+    ch: Thụy Sỹ
+    sy: Syria
+    tw: Đài Loan
+    tj: Tajikistan
+    tz: Tanzania
+    th: nước Thái Lan
+    tg: Đi
+    tk: Tokelau
+    to: Xe nhẹ có hai bánh ở ấn độ
+    tt: Trinidad và Tobago
+    tn: Tunisia
+    tr: Thổ Nhĩ Kỳ
+    tm: Turkmenistan
+    tc: Quần đảo Turks và Caicos
+    tv: Tuvalu
+    vi: US Virgin Islands
+    ug: Uganda
+    ua: Ukraina
+    ae: các Tiểu Vương Quốc Ả Rập Thống Nhất
+    gb: Vương quốc Anh
+    us: Hoa Kỳ
+    uy: Uruguay
+    uz: Uzbekistan
+    vu: Vanuatu
+    va: Vatican
+    ve: Venezuela
+    vn: Việt Nam
+    wf: Wallis và Futuna
+    eh: Phía tây Sahara
+    ye: Yemen
+    zm: Zambia
+    zw: Zimbabwe

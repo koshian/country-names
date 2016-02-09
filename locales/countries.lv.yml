@@ -1,0 +1,243 @@
+---
+lv:
+  iso3166:
+    af: Afganistāna
+    al: Albānija
+    dz: Alžīrija
+    as: Amerikāņu Samoa
+    ad: Andora
+    ao: Angola
+    ai: Anguilla
+    aq: Antarktika
+    ag: Antigva un Barbuda
+    ar: Argentīna
+    am: Armēnija
+    aw: Aruba
+    au: Austrālija
+    at: Austrija
+    az: Azerbaidžāna
+    bs: Bahamu salas
+    bh: Bahreina
+    bd: Bangladeša
+    bb: Barbadosa
+    by: Baltkrievija
+    be: Beļģija
+    bz: Beliza
+    bj: Benina
+    bm: Bermuda
+    bt: Butāna
+    bo: Bolīvija
+    ba: Bosnija un Hercegovina
+    bw: Botsvāna
+    br: Brazīlija
+    io: Britu Indijas okeāna teritorija
+    vg: Britu Virdžīnu salas
+    bn: Bruneja
+    bg: Bulgārija
+    bf: Burkinafaso
+    bi: Burundi
+    kh: Kambodža
+    cm: Kamerūna
+    ca: Kanāda
+    cv: Kaboverde
+    ky: Kaimanu salas
+    cf: Centrālāfrikas Republika
+    td: Čada
+    cl: Čīle
+    cn: Ķīna
+    cx: Ziemsvētku sala
+    cc: Kokosu salas
+    co: Kolumbija
+    km: Komoras
+    ck: Kuka salas
+    cr: Kostarika
+    hr: Horvātija
+    cu: Kuba
+    cw: Kirasao
+    cy: Kipra
+    cz: Čehu Republika
+    cd: Kongo Demokrātiskā Republika
+    dk: Dānija
+    dj: Džibutija
+    dm: Dominika
+    do: Dominikānas republika
+    tl: Austrumtimora
+    ec: Ekvadora
+    eg: Ēģipte
+    sv: Glābējs
+    gq: Ekvatoriālā Gvineja
+    er: Eritreja
+    ee: Igaunija
+    et: Etiopija
+    fk: Folklenda salas
+    fo: Fēru salas
+    fj: Fidži
+    fi: Somija
+    fr: Francija
+    pf: Franču Polinēzija
+    ga: Gabona
+    gm: Gambija
+    ge: Gruzija
+    de: Vācija
+    gh: Gana
+    gi: Gibraltārs
+    gr: Grieķija
+    gl: Grenlande
+    gd: Grenāda
+    gu: Guama
+    gt: Gvatemala
+    gg: Guernsey
+    gn: Gvineja
+    gw: Gvineja-Bisava
+    gy: Gajāna
+    ht: Haiti
+    hn: Hondurasa
+    hk: Honkonga
+    hu: Ungārija
+    is: Islande
+    in: Indija
+    id: Indonēzija
+    ir: Irāna
+    iq: Irāka
+    ie: Īrija
+    im: Menas sala
+    il: Izraēla
+    it: Itālija
+    ci: Kotdivuāra
+    jm: Jamaika
+    jp: Japāna
+    je: Džērsija
+    jo: Jordānija
+    kz: Kazahstāna
+    ke: Kenija
+    ki: Kiribati
+    xk: Kosova
+    kw: Kuveita
+    kg: Kirgizstāna
+    la: Laosa
+    lv: Latvija
+    lb: Libāna
+    ls: Lesoto
+    lr: Libērija
+    ly: Lībija
+    li: Lihtenšteina
+    lt: Lietuva
+    lu: Luksemburga
+    mo: Makao
+    mk: Maķedonija
+    mg: Madagaskara
+    mw: Malāvija
+    my: Malaizija
+    mv: Maldīvija
+    ml: Mali
+    mt: Malta
+    mh: Māršala salas
+    mr: Mauritānija
+    mu: Maurīcija
+    yt: Majota
+    mx: Meksika
+    fm: Mikronēzija
+    md: Moldova
+    mc: Monako
+    mn: Mongolija
+    me: Melnkalne
+    ms: Montserrata
+    ma: Maroka
+    mz: Mozambika
+    mm: Mjanma
+    na: Namībija
+    nr: Nauru
+    np: Nepāla
+    nl: Nīderlande
+    an: Nīderlandes Antiļas
+    nc: Jaunkaledonija
+    nz: Jaunzēlande
+    ni: Nikaragva
+    ne: Nigēra
+    ng: Nigērija
+    nu: Niue
+    kp: Ziemeļkoreja
+    mp: Ziemeļu Marianas salas
+    'no': Norvēģija
+    om: Omāna
+    pk: Pakistāna
+    pw: Palau
+    ps: Palestīna
+    pa: Panama
+    pg: Papua Jaungvineja
+    py: Paragvaja
+    pe: Peru
+    ph: Filipīnas
+    pn: Pitkērna
+    pl: Polija
+    pt: Portugāle
+    pr: Puertoriko
+    qa: Katara
+    cg: Kongo Republika
+    re: Atkalapvienošanās
+    ro: Rumānija
+    ru: Krievija
+    rw: Ruanda
+    bl: Senbartelmī
+    sh: Saint Helena
+    kn: Sentkitsa un Nevisa
+    lc: Sentlūsija
+    mf: Saint Martin
+    pm: Senpjēra un Mikelona
+    vc: Sentvinsenta un Grenadīnas
+    ws: Samoa
+    sm: San Marino
+    st: Santome un Prinsipi
+    sa: Saūda Arābija
+    sn: Senegāla
+    rs: Serbija
+    sc: Seišelu salas
+    sl: Sjerraleone
+    sg: Singapūra
+    sx: Sint Maarten
+    sk: Slovākija
+    si: Slovēnija
+    sb: Zālamana salas
+    so: Somālija
+    za: Dienvidāfrika
+    kr: Dienvidkoreja
+    ss: Dienvidsudāna
+    es: Spānija
+    lk: Šrilanka
+    sd: Sudāna
+    sr: Surinama
+    sj: Svalbāra un Jana Majena sala
+    sz: Svazilenda
+    se: Zviedrija
+    ch: Šveice
+    sy: Sīrija
+    tw: Taivāna
+    tj: Tadžikistāna
+    tz: Tanzānija
+    th: Taizeme
+    tg: Iet
+    tk: Tokelau
+    to: Tonga
+    tt: Trinidada un Tobāgo
+    tn: Tunisija
+    tr: Turcija
+    tm: Turkmenistāna
+    tc: Tērksas un Kaikosas salas
+    tv: Tuvalu
+    vi: ASV Virdžīnas
+    ug: Uganda
+    ua: Ukraina
+    ae: Apvienotie Arābu Emirāti
+    gb: Apvienotā Karaliste
+    us: Savienotās Valstis
+    uy: Urugvaja
+    uz: Uzbekistāna
+    vu: Vanuatu
+    va: Vatikāns
+    ve: Venecuēla
+    vn: Vjetnama
+    wf: Volisa un Futuna
+    eh: Western Sahara
+    ye: Jemena
+    zm: Zambija
+    zw: Zimbabve

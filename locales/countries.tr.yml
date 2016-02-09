@@ -1,0 +1,243 @@
+---
+tr:
+  iso3166:
+    af: Afganistan
+    al: Arnavutluk
+    dz: Cezayir
+    as: Amerikan Samoası
+    ad: Andorra
+    ao: Angora
+    ai: Anguilla
+    aq: Antarktika
+    ag: Antigua ve Barbuda
+    ar: Arjantin
+    am: Ermenistan
+    aw: Aruba
+    au: Avustralya
+    at: Avusturya
+    az: Azerbeycan
+    bs: Bahamalar
+    bh: Bahreyn
+    bd: Bangladeş
+    bb: Barbados
+    by: Belarus
+    be: Belçika
+    bz: Belize
+    bj: Benin
+    bm: Bermuda
+    bt: Butan
+    bo: Bolivya
+    ba: Bosna Hersek
+    bw: Botsvana
+    br: Brezilya
+    io: İngiliz Hint Okyanusu Toprakları
+    vg: British Virgin Islands
+    bn: Brunei
+    bg: Bulgaristan
+    bf: Burkina Faso
+    bi: Burundi
+    kh: Kamboçya
+    cm: Kamerun
+    ca: Kanada
+    cv: Cape Verde
+    ky: Cayman Adaları
+    cf: Orta Afrika Cumhuriyeti
+    td: Çad
+    cl: Şili
+    cn: Çin
+    cx: Christmas Adası
+    cc: Cocos Adaları
+    co: Kolombiya
+    km: Komorlar
+    ck: Cook Adaları
+    cr: Kostarika
+    hr: Hırvatistan
+    cu: Küba
+    cw: Curacao
+    cy: Kıbrıs
+    cz: Çek Cumhuriyeti
+    cd: Kongo Demokratik Cumhuriyeti
+    dk: Danimarka
+    dj: Cibuti
+    dm: Dominica
+    do: Dominik Cumhuriyeti
+    tl: Doğu Timor
+    ec: Ekvador
+    eg: Mısır
+    sv: Hazreti İsa
+    gq: Ekvator Ginesi
+    er: Eritre
+    ee: Estonya
+    et: Etiyopya
+    fk: Falkland adaları
+    fo: Faroe Adaları
+    fj: Fiji
+    fi: Finlandiya
+    fr: Fransa
+    pf: Fransız Polinezyası
+    ga: Gabon
+    gm: Gambiya
+    ge: Gürcistan
+    de: Almanya
+    gh: Gana
+    gi: Cebelitarık
+    gr: Yunanistan
+    gl: Grönland
+    gd: Grenada
+    gu: Guam
+    gt: Guatemala
+    gg: Bir tür inek
+    gn: Gine
+    gw: Gine-Bissau
+    gy: Guyana
+    ht: Haiti
+    hn: Honduras
+    hk: Hong Kong
+    hu: Macaristan
+    is: İzlanda
+    in: Hindistan
+    id: Endonezya
+    ir: İran
+    iq: Irak
+    ie: İrlanda
+    im: Isle of Man
+    il: İsrail
+    it: İtalya
+    ci: Fildişi Sahili
+    jm: Jamaika
+    jp: Japonya
+    je: Jersey
+    jo: Ürdün
+    kz: Kazakistan
+    ke: Kenya
+    ki: Kiribati
+    xk: Kosova
+    kw: Kuveyt
+    kg: Kırgızistan
+    la: Laos
+    lv: Letonya
+    lb: Lübnan
+    ls: Lesotho
+    lr: Liberya
+    ly: Libya
+    li: Liechtenstein
+    lt: Litvanya
+    lu: Lüksemburg
+    mo: Macao
+    mk: Makedonya
+    mg: Madagaskar
+    mw: Malawi
+    my: Malezya
+    mv: Maldivler
+    ml: Mali
+    mt: Malta
+    mh: Marshall Adaları
+    mr: Moritanya
+    mu: Mauritius
+    yt: Mayotte
+    mx: Meksika
+    fm: Mikronezya
+    md: Buğdan
+    mc: Monako
+    mn: Moğolistan
+    me: Karadağ
+    ms: Montserrat
+    ma: Fas
+    mz: Mozambik
+    mm: Myanmar
+    na: Namibya
+    nr: Nauru
+    np: Nepal
+    nl: Hollanda
+    an: Hollanda Antilleri
+    nc: Yeni Kaledonya
+    nz: Yeni Zelanda
+    ni: Nikaragua
+    ne: Nijer
+    ng: Nijerya
+    nu: Niue
+    kp: Kuzey Kore
+    mp: Kuzey Mariana Adaları
+    'no': Norveç
+    om: Umman
+    pk: Pakistan
+    pw: Palau
+    ps: Filistin
+    pa: Panama
+    pg: Papua Yeni Gine
+    py: Paraguay
+    pe: Peru
+    ph: Filipinler
+    pn: Pitcairn
+    pl: Polonya
+    pt: Portekiz
+    pr: Portoriko
+    qa: Katar
+    cg: Kongo Cumhuriyeti
+    re: Birleşme
+    ro: Romanya
+    ru: Rusya
+    rw: Ruanda
+    bl: Aziz Barthelemy
+    sh: Aziz Helena
+    kn: Saint Kitts ve Nevis
+    lc: Lucia
+    mf: Saint Martin,
+    pm: Saint Pierre and Miquelon
+    vc: Saint Vincent ve Grenadines
+    ws: Samoa
+    sm: San Marino
+    st: Sao Tome ve Principe
+    sa: Suudi Arabistan
+    sn: Senegal
+    rs: Sırbistan
+    sc: Seyşeller
+    sl: Sierra Leone
+    sg: Singapur
+    sx: Sint Maarten
+    sk: Slovakya
+    si: Slovenya
+    sb: Solomon Adaları
+    so: Somali
+    za: Güney Afrika
+    kr: Güney Kore
+    ss: Güney Sudan
+    es: İspanya
+    lk: Sri Lanka
+    sd: Sudan
+    sr: Surinam
+    sj: Svalbard ve Jan Mayen
+    sz: Svaziland
+    se: İsveç
+    ch: İsviçre
+    sy: Suriye
+    tw: Tayvan
+    tj: Tacikistan
+    tz: Tanzanya
+    th: Tayland
+    tg: Gitmek
+    tk: Tokelau
+    to: Tonga
+    tt: Trinidad ve Tobago
+    tn: Tunus
+    tr: Türkiye
+    tm: Türkmenistan
+    tc: Turks ve Caicos Adaları
+    tv: Tuvalu
+    vi: ABD Virgin Adaları
+    ug: Uganda
+    ua: Ukrayna
+    ae: Birleşik Arap Emirlikleri
+    gb: Birleşik Krallık
+    us: Amerika Birleşik Devletleri
+    uy: Uruguay
+    uz: Özbekistan
+    vu: Vanuatu
+    va: Vatikan
+    ve: Venezuela
+    vn: Vietnam
+    wf: Wallis ve Futuna
+    eh: Batı sahara
+    ye: Yemen
+    zm: Zambiya
+    zw: Zimbabve

@@ -1,0 +1,243 @@
+---
+hmn:
+  iso3166:
+    af: Afghanistan
+    al: Albania
+    dz: Algeria
+    as: American Samoa
+    ad: Andorra
+    ao: Angola
+    ai: Anguilla
+    aq: Antarctica
+    ag: Antigua thiab Barbuda
+    ar: Argentina
+    am: Armenia
+    aw: Aruba
+    au: Australia
+    at: Austria
+    az: Azerbaijan
+    bs: Bahamas
+    bh: Bahrain
+    bd: Bangladesh
+    bb: Barbados
+    by: Belarus
+    be: Belgium
+    bz: Belize
+    bj: Benin
+    bm: Ris Ceg
+    bt: Bhutan
+    bo: Bolivia
+    ba: Bosnia thiab Herzegovina
+    bw: Botswana
+    br: Brazil
+    io: British khab hiav txwv Territory
+    vg: British Islands tuaj nkauj xwb
+    bn: Brunei
+    bg: Bulgaria
+    bf: Burkina Faso
+    bi: Burundi
+    kh: Qhab Meem teb
+    cm: Cameroon
+    ca: Canada
+    cv: Cape Verde
+    ky: Cayman Islands tuaj
+    cf: Central African koom pheej
+    td: Chad
+    cl: Chile
+    cn: Tuam Tshoj
+    cx: Christmas Island
+    cc: Cocos Islands tuaj
+    co: Colombia
+    km: Comoros
+    ck: Ua noj Islands tuaj
+    cr: Costa Rica
+    hr: Croatia
+    cu: Teb chaws Cuba
+    cw: Curacao
+    cy: Cyprus
+    cz: Czech koom pheej
+    cd: Koom pheej ywj pheej ntawm cov Congo
+    dk: Denmark
+    dj: Djibouti
+    dm: Dominica
+    do: Dominican koom pheej
+    tl: East Timor
+    ec: Ecuador
+    eg: Tim lyiv teb chaws
+    sv: Tus Cawm Seej
+    gq: Equatorial Guinea
+    er: Eritrea
+    ee: Estonia
+    et: Ethiopia
+    fk: Falkland Islands
+    fo: Faroe Islands
+    fj: Fiji
+    fi: Finland
+    fr: Fabkis
+    pf: Fabkis Polynesia
+    ga: Gabon
+    gm: Gambia
+    ge: Georgia
+    de: Lub teb chaws Yelemees
+    gh: Ghana
+    gi: Gibraltar
+    gr: Tim Nkij teb chaws
+    gl: Greenland
+    gd: Grenada
+    gu: Guam
+    gt: Guatemala
+    gg: Guernsey
+    gn: Guinea
+    gw: Guinea-Bissau
+    gy: Guyana
+    ht: Hiati tuaj
+    hn: Honduras
+    hk: Hong Kong
+    hu: Hungary
+    is: Iceland
+    in: Is Nrias teb
+    id: Indonesia
+    ir: Iran
+    iq: Iraq
+    ie: Ireland
+    im: Isle ntawm tus txiv neej
+    il: Ixayees
+    it: Ltalis
+    ci: Ivory Coast
+    jm: Jamaica
+    jp: Nyiv
+    je: Jersey
+    jo: Jordan
+    kz: Kazakhstan
+    ke: Kenya
+    ki: Kiribati
+    xk: Kosovo
+    kw: Kuwait
+    kg: Kyrgyzstan
+    la: Nplog
+    lv: Latvia
+    lb: Lebanon
+    ls: Lesotho
+    lr: Liberia
+    ly: Libya
+    li: Liechtenstein
+    lt: Lithuania
+    lu: Luxembourg
+    mo: Macao
+    mk: Macedonia
+    mg: Madagascar
+    mw: Malawi
+    my: Malaysia
+    mv: Maldives
+    ml: Mali
+    mt: Malta
+    mh: Marshall Islands
+    mr: Mauritania
+    mu: Mauritius
+    yt: Mayotte
+    mx: Mexico
+    fm: Micronesia
+    md: Moldavia
+    mc: Monaco
+    mn: Mongolia
+    me: Montenegro
+    ms: Montserrat
+    ma: Morocco
+    mz: Mozambique
+    mm: Myanmar
+    na: Namibia
+    nr: Nauru
+    np: Nepal
+    nl: Netherlands
+    an: Netherlands Antilles
+    nc: New Caledonia
+    nz: New Zealand
+    ni: Nicaragua
+    ne: Niger
+    ng: Nigeria
+    nu: Niue
+    kp: Sab qaum teb Kauslim
+    mp: Northern Mariana Islands tuaj
+    'no': Norway
+    om: Oman
+    pk: Pakistan
+    pw: Palau
+    ps: Palestine
+    pa: Panama
+    pg: Papua New Guinea
+    py: Paraguay
+    pe: Peru
+    ph: Philippines
+    pn: Pitcairn
+    pl: Poland
+    pt: Portugal
+    pr: Puerto Rico
+    qa: Qatar
+    cg: Pheej ntawm cov Congo
+    re: Reunion
+    ro: Romania
+    ru: Zog ntawm Guj kuj
+    rw: Rwanda
+    bl: Saint Barthelemy
+    sh: Saint Helena
+    kn: Saint Kitts thiab Nevis
+    lc: Saint Lucia
+    mf: Saint Martin
+    pm: Saint Pierre thiab Miquelon
+    vc: Saint Vincent thiab cov Grenadines
+    ws: Samoa
+    sm: San Marino
+    st: Sao Tome Principe thiab
+    sa: Saudi Arabia
+    sn: Senegal
+    rs: Serbia
+    sc: Seychelles
+    sl: Sierra Leone
+    sg: Singapore
+    sx: Sint Maarten
+    sk: Slovakia
+    si: Slovenia
+    sb: Xalaumoo Islands
+    so: Somalia
+    za: South Africa
+    kr: South Kauslim
+    ss: South Sudan
+    es: Spain
+    lk: Sri Lanka
+    sd: Sudan
+    sr: Suriname
+    sj: Svalbard thiab Jan Mayen
+    sz: Swaziland
+    se: Sweden
+    ch: Switzerland
+    sy: Syria
+    tw: Taiwan
+    tj: Tajikistan
+    tz: Tanzania
+    th: Thaib teb
+    tg: Togo
+    tk: Tokelau
+    to: Tonga
+    tt: Trinidad thiab Tobago
+    tn: Tunisia
+    tr: Qaib ntxhw
+    tm: Turkmenistan
+    tc: Turks thiab Caicos Islands tuaj
+    tv: Tuvalu
+    vi: US Virgin Islands
+    ug: Uganda
+    ua: Ukraine
+    ae: As-lam kuj Emirates United
+    gb: United Kingdom
+    us: United States
+    uy: Uruguay
+    uz: Uzbekistan
+    vu: Vanuatu
+    va: Vatican
+    ve: Venezuela
+    vn: Nyab laj
+    wf: Wallis thiab Futuna
+    eh: Western Sahara
+    ye: Yemen
+    zm: Zambia
+    zw: Zimbabwe

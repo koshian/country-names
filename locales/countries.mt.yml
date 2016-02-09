@@ -1,0 +1,243 @@
+---
+mt:
+  iso3166:
+    af: Afganistan
+    al: Albanija
+    dz: Alġerija
+    as: American Samoa
+    ad: Andorra
+    ao: Angola
+    ai: Anguilla
+    aq: Antartika
+    ag: Antigwa u Barbuda
+    ar: Arġentina
+    am: Armenja
+    aw: Aruba
+    au: Awstralja
+    at: L-Awstrija
+    az: Ażerbajġan
+    bs: Bahamas
+    bh: Baħrejn
+    bd: Bangladesh
+    bb: Barbados
+    by: Belarus
+    be: Il-Belġju
+    bz: Belize
+    bj: Benin
+    bm: Bermuda
+    bt: Bhutan
+    bo: Bolivja
+    ba: Bosnja-Ħerzegovina
+    bw: Botswana
+    br: Brażil
+    io: It-Territorju Britanniku tal-Oċean Indjan
+    vg: British Virgin Islands
+    bn: Brunei
+    bg: Bulgarija
+    bf: Burkina Faso
+    bi: Burundi
+    kh: Kambodja
+    cm: Kamerun
+    ca: Kanada
+    cv: Cape Verde
+    ky: Gżejjer Cayman
+    cf: Repubblika Afrikana Ċentrali
+    td: Ċad
+    cl: Ċili
+    cn: Ċina
+    cx: Christmas Island
+    cc: Gżejjer Cocos
+    co: Kolombja
+    km: Komoros
+    ck: Gżejjer Cook
+    cr: Kosta Rika
+    hr: Kroazja
+    cu: Kuba
+    cw: Curacao
+    cy: Ċipru
+    cz: Repubblika Ċeka
+    cd: Repubblika Demokratika tal-Kongo
+    dk: Danimarka
+    dj: Ġibuti
+    dm: Dominika
+    do: Repubblika Dominikana
+    tl: Timor tal-Lvant
+    ec: Ekwador
+    eg: Eġittu
+    sv: Il Salvatur
+    gq: Ginea Ekwatorjali
+    er: Eritrea
+    ee: L-Estonja
+    et: Etjopja
+    fk: Gżejjer Falkland
+    fo: Gżejjer Faroe
+    fj: Fiġi
+    fi: Il-Finlandja
+    fr: Franza
+    pf: Polineżja Franċiża
+    ga: Gabon
+    gm: Gambja
+    ge: Georgia
+    de: Il-Ġermanja
+    gh: Ghana
+    gi: Ġibiltà
+    gr: Il-Greċja
+    gl: Greenland
+    gd: Grenada
+    gu: Guam
+    gt: Gwatemala
+    gg: Guernsey
+    gn: Guinea
+    gw: Ginea Bissaw
+    gy: Gujana
+    ht: Ħaiti
+    hn: Ħonduras
+    hk: Hong Kong
+    hu: L-Ungerija
+    is: Islanda
+    in: Indja
+    id: Indoneżja
+    ir: Iran
+    iq: Iraq
+    ie: Irlanda
+    im: Isle of Man
+    il: Israel
+    it: Italja
+    ci: Kosta tal-Avorju
+    jm: Ġamajka
+    jp: Ġappun
+    je: Jersey
+    jo: Jordan
+    kz: Kazakhstan
+    ke: Kenja
+    ki: Kiribati
+    xk: Kosovo
+    kw: Kuwajt
+    kg: Kyrgyzstan
+    la: Laos
+    lv: Latvja
+    lb: Libanu
+    ls: Lesoto
+    lr: Liberja
+    ly: Libja
+    li: Liechtenstein
+    lt: Litwanja
+    lu: Lussemburgu
+    mo: Makaw
+    mk: Maċedonja
+    mg: Madagaskar
+    mw: Malawi
+    my: Malasja
+    mv: Maldivi
+    ml: Mali
+    mt: Malta
+    mh: Gżejjer Marshall
+    mr: Mawritanja
+    mu: Mauritius
+    yt: Mayotte
+    mx: Messiku
+    fm: Mikroneżja
+    md: Moldavia
+    mc: Monako
+    mn: Mongolja
+    me: Montenegro
+    ms: Montserrat
+    ma: Marokk
+    mz: Możambik
+    mm: Mjanmar
+    na: Namibja
+    nr: Nauru
+    np: Nepal
+    nl: Olanda
+    an: Antilli Olandiżi
+    nc: New Caledonia
+    nz: New Zealand
+    ni: Nikaragwa
+    ne: Niger
+    ng: Niġerja
+    nu: Niue
+    kp: Il-Korea ta 'Fuq
+    mp: Gżejjer Northern Mariana
+    'no': Norveġja
+    om: Oman
+    pk: Pakistan
+    pw: Palau
+    ps: Palestina
+    pa: Panama
+    pg: Papua New Guinea
+    py: Paragwaj
+    pe: Peru
+    ph: Filippini
+    pn: Pitcairn
+    pl: Il-Polonja
+    pt: Portugal
+    pr: Puerto Rico
+    qa: Qatar
+    cg: Repubblika tal-Kongo
+    re: Reunion
+    ro: Ir-Rumanija
+    ru: Russja
+    rw: Rwanda
+    bl: Saint Barthelemy
+    sh: Saint Helena
+    kn: Saint Kitts u Nevis
+    lc: Saint Lucia
+    mf: Saint Martin
+    pm: Saint Pierre u Miquelon
+    vc: Saint Vincent u l-Grenadini
+    ws: Samoa
+    sm: San Marino
+    st: São Tomé u Príncipe
+    sa: Għarabja Sawdita
+    sn: Senegal
+    rs: Serbja
+    sc: Seychelles
+    sl: Sierra Leone
+    sg: Singapor
+    sx: Sint Maarten
+    sk: Is-Slovakkja
+    si: Is-Slovenja
+    sb: Gżejjer Solomon
+    so: Somalja
+    za: l-Afrika t'Isfel
+    kr: Korea t'Isfel
+    ss: Sudan t'Isfel
+    es: Spanja
+    lk: Sri Lanka
+    sd: Sudan
+    sr: Surinam
+    sj: Svalbard u Jan Mayen
+    sz: Sważiland
+    se: Iżvezja
+    ch: Isvizzera
+    sy: Sirja
+    tw: Tajwan
+    tj: Taġikistan
+    tz: Tanżanija
+    th: Tajlandja
+    tg: Togo
+    tk: Tokelau
+    to: Tonga
+    tt: Trinidad u Tobago
+    tn: Tuneżija
+    tr: Dundjan
+    tm: Turkmenistan
+    tc: Turks u Caicos
+    tv: Tuvalu
+    vi: Istati Uniti Virgin Islands
+    ug: Uganda
+    ua: Ukraina
+    ae: Emirati Għarab Magħquda
+    gb: Ir-Renju Unit
+    us: L-Istati Uniti
+    uy: Urugwaj
+    uz: Uzbekistan
+    vu: Vanuatu
+    va: Vatikan
+    ve: Venezwela
+    vn: Vjetnam
+    wf: Wallis u Futuna
+    eh: Saħara tal-Punent
+    ye: Jemen
+    zm: Żambja
+    zw: Żimbabwe

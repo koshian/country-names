@@ -1,0 +1,243 @@
+---
+uz:
+  iso3166:
+    af: Afg'oniston
+    al: Albaniya
+    dz: Jazoir
+    as: American Samoa
+    ad: Andorra
+    ao: Angola
+    ai: Anguilla
+    aq: Antarktida
+    ag: Antigua va Barbuda
+    ar: Argentina
+    am: Armaniston
+    aw: Aruba
+    au: Avstraliya
+    at: Avstriya
+    az: Ozarbayjon
+    bs: Bagama orollari
+    bh: Bahrayn
+    bd: Bangladesh
+    bb: Barbados
+    by: Belarus
+    be: Belgiya
+    bz: Beliz
+    bj: Benin
+    bm: Bermuda
+    bt: Butan
+    bo: Boliviya
+    ba: Bosniya va Gertsegovina
+    bw: Botsvana
+    br: Braziliya
+    io: Buyuk Britaniyaning Hind okeanidagi hududi
+    vg: Britaniya Virgin orollari
+    bn: Bruney
+    bg: Bolgariya
+    bf: Burkina Faso
+    bi: Burundi
+    kh: Kambodja
+    cm: Kamerun
+    ca: Canada
+    cv: Kabo-Verde
+    ky: Kayman orollari
+    cf: Markaziy Afrika Respublikasi
+    td: Chad
+    cl: Chili
+    cn: Xitoy
+    cx: Rojdestvo orolining
+    cc: Cocos Islands
+    co: Kolumbiya
+    km: Komorlar
+    ck: Kuk orollari
+    cr: Kosta-Rika
+    hr: Xorvatiya
+    cu: Kuba
+    cw: Curacao
+    cy: Kipr
+    cz: Chexiya Respublikasi
+    cd: Kongo Demokratik Respublikasi
+    dk: Daniya
+    dj: Jibuti
+    dm: Dominika
+    do: Dominik Respublikasi
+    tl: Sharqiy Timor
+    ec: Ekvador
+    eg: Misr
+    sv: Savior
+    gq: Ekvatorial Gvineya
+    er: Eritreya
+    ee: Estoniya
+    et: Efiopiya
+    fk: Folklend orollari
+    fo: Farer orollari
+    fj: Fiji
+    fi: Finlyandiya
+    fr: Frantsiya
+    pf: Frantsiya Polinezyası
+    ga: Gabon
+    gm: Gambiya
+    ge: Gruziya
+    de: Germaniya
+    gh: Gana
+    gi: Gibraltar
+    gr: Gretsiya
+    gl: Grenlandiya
+    gd: Grenada
+    gu: Guam
+    gt: Guatemala
+    gg: Guernsey
+    gn: Gvineya
+    gw: Gvineya-Bissau
+    gy: Gayana
+    ht: Gaiti
+    hn: Gonduras
+    hk: Hong Kong
+    hu: Vengriya
+    is: Islandiya
+    in: Hindiston
+    id: Indoneziya
+    ir: Eron
+    iq: Iroq
+    ie: Irlandiya
+    im: Jurnal of Man
+    il: Isroil
+    it: Italiya
+    ci: Kot-d'Ivuar
+    jm: Yamayka
+    jp: Yaponiya
+    je: Jersi
+    jo: Jordan
+    kz: Qozog'iston
+    ke: Keniya
+    ki: Kiribati
+    xk: Kosovo
+    kw: Quvayt
+    kg: Qirg'iziston
+    la: Laos
+    lv: Latviya
+    lb: Livan
+    ls: Lesoto
+    lr: Liberiya
+    ly: Liviya
+    li: Lixtenshteyn
+    lt: Litva
+    lu: Lyuksemburg
+    mo: Makao
+    mk: Makedoniya
+    mg: Madagaskar
+    mw: Malavi
+    my: Malaysia
+    mv: Maldiv orollari
+    ml: Mali
+    mt: Malta
+    mh: Marshall orollari
+    mr: Mavritaniya
+    mu: Mauritius
+    yt: Mayotte
+    mx: Meksika
+    fm: Mikroneziya
+    md: Moldova
+    mc: Monaco
+    mn: Mo'g'uliston
+    me: Montenegro
+    ms: Montserrat
+    ma: Marokash
+    mz: Mozambik
+    mm: Myanma
+    na: Namibiya
+    nr: Nauru
+    np: Nepal
+    nl: Gollandiya
+    an: Netherlands Antilles
+    nc: Yangi Kaledoniya
+    nz: Yangi Zelandiya
+    ni: Nikaragua
+    ne: Niger
+    ng: Nigeriya
+    nu: Niue
+    kp: Shimoliy Koreya
+    mp: Shimoliy Mariana orollari
+    'no': Norvegiya
+    om: Ummon
+    pk: Pokiston
+    pw: Palau
+    ps: Falastin
+    pa: Panama
+    pg: Papua Yangi Gvineya
+    py: Paragvay
+    pe: Peru
+    ph: Filippin
+    pn: Pitkern
+    pl: Polsha
+    pt: Portugaliya
+    pr: Puerto Rico
+    qa: Qatar
+    cg: Kongo Respublikasi
+    re: Qayta birlashish
+    ro: Ruminiya
+    ru: Rossiya
+    rw: Ruanda
+    bl: Sankt-Barthelemy
+    sh: Saint Helena
+    kn: Sent-Kits va Nevis
+    lc: Saint Lucia
+    mf: Sankt Martin
+    pm: Sankt-Per va Miquelon
+    vc: Sankt-Vinsent va Grenadinler
+    ws: Samoa
+    sm: San Marino
+    st: San Tome va Prinsipi
+    sa: Saudiya Arabistoni
+    sn: Senegal
+    rs: Serbiya
+    sc: Seyshel orollari
+    sl: Sierra Leone
+    sg: Singapore
+    sx: Sint Taiti
+    sk: Slovakiya
+    si: Sloveniya
+    sb: Solomon Islands
+    so: Somali
+    za: Janubiy Afrika
+    kr: Janubiy Koreya
+    ss: Janubiy Sudan
+    es: Ispaniya
+    lk: Shri Lanka
+    sd: Sudan
+    sr: Surinam
+    sj: Svalbard va Jan LCD
+    sz: Svazilend
+    se: Shvetsiya
+    ch: Shveytsariya
+    sy: Suriya
+    tw: Tayvan
+    tj: Tojikiston
+    tz: Tanzaniya
+    th: Tailand
+    tg: Bormoq
+    tk: Tokelau
+    to: Tonga
+    tt: Trinidad va Tobago
+    tn: Tunis
+    tr: kurka
+    tm: Turkmaniston
+    tc: Turk va Kaykos orollari
+    tv: Tuvalu
+    vi: AQSh Virgin orollari
+    ug: Uganda
+    ua: Ukraina
+    ae: Birlashgan Arab Amirligi
+    gb: Birlashgan Qirollik
+    us: Qo'shma Shtatlar
+    uy: Urugvay
+    uz: O'zbekiston
+    vu: Vanuatu
+    va: Vatikan
+    ve: Venesuela
+    vn: Vetnam
+    wf: Wallis va Futuna
+    eh: Western Sahara
+    ye: Yaman
+    zm: Zambiya
+    zw: Zimbabve

@@ -1,0 +1,243 @@
+---
+sq:
+  iso3166:
+    af: Afganistan
+    al: Albania
+    dz: Algjeri
+    as: Samoa amerikane
+    ad: Andorra
+    ao: Angolë
+    ai: Anguilla
+    aq: Antarktidë
+    ag: Antigua dhe Barbuda
+    ar: Argjentinë
+    am: Armeni
+    aw: Aruba
+    au: Australi
+    at: Austri
+    az: Azerbaixhan
+    bs: Bahamas
+    bh: Bahrain
+    bd: Bangladesh
+    bb: Barbados
+    by: Bjellorusi
+    be: Belgjikë
+    bz: Belize
+    bj: Benin
+    bm: Bermuda
+    bt: Butan
+    bo: Bolivi
+    ba: Bosnja dhe Hercegovina
+    bw: Botsvanë
+    br: Brazil
+    io: British Indian Ocean Territory
+    vg: Ishujt e Virgjër Britanikë
+    bn: Brunei
+    bg: Bulgari
+    bf: Burkina Faso
+    bi: Burundi
+    kh: Kamboxhi
+    cm: Kamerun
+    ca: Kanadë
+    cv: Cape Verde
+    ky: Ishujt Kajman
+    cf: Republika e Afrikës Qendrore
+    td: Çad
+    cl: Kili
+    cn: Kinë
+    cx: Christmas Island
+    cc: Ishujt Kokos
+    co: Kolumbi
+    km: Komoros
+    ck: Ishujt Kuk
+    cr: Kostarikë
+    hr: Kroacia
+    cu: Kubë
+    cw: Curacao
+    cy: Qipro
+    cz: Republika Çeke
+    cd: Republika Demokratike e Kongos
+    dk: Danimarkë
+    dj: Xhibuti
+    dm: Dominica
+    do: Republika Domenikane
+    tl: Timori Lindor
+    ec: Ekuador
+    eg: Egjipt
+    sv: Shpëtimtari
+    gq: Guineja Ekuatoriale
+    er: Eritrea
+    ee: Estoni
+    et: Etiopi
+    fk: Ishujt Falkland
+    fo: Ishujt Faroe
+    fj: Fixhi
+    fi: Finlandë
+    fr: Francë
+    pf: Polinezia Franceze
+    ga: Gabon
+    gm: Gambia
+    ge: Gjeorgji
+    de: Gjermani
+    gh: Gana
+    gi: Gjibraltar
+    gr: Greqi
+    gl: Grenlandë
+    gd: Grenada
+    gu: Guam
+    gt: Guatemala
+    gg: Gërnzi
+    gn: Gini
+    gw: Guinea Bisau
+    gy: Guajana
+    ht: Haiti
+    hn: Honduras
+    hk: Hong Kong
+    hu: Hungari
+    is: Islandë
+    in: Indi
+    id: Indonezi
+    ir: Iran
+    iq: Irak
+    ie: Irlandë
+    im: Ishulli i Njeriut
+    il: Izrael
+    it: Itali
+    ci: Breg Fildishit
+    jm: Xhamaika
+    jp: Japoni
+    je: Triko
+    jo: Jordan
+    kz: Kazahstan
+    ke: Kenia
+    ki: Kiribati
+    xk: Kosova
+    kw: Kuwait
+    kg: Kirgistan
+    la: Laos
+    lv: Letoni
+    lb: Liban
+    ls: Lesoto
+    lr: Liberi
+    ly: Libi
+    li: Lihtenshtajni
+    lt: Lituani
+    lu: Luksemburg
+    mo: Makao
+    mk: Maqedoni
+    mg: Madagaskar
+    mw: Malavi
+    my: Malaysia
+    mv: Maldives
+    ml: Mali
+    mt: Maltë
+    mh: Ishujt Marshall
+    mr: Mavritani
+    mu: Mauritius
+    yt: Mayotte
+    mx: Meksikë
+    fm: Mikronezi
+    md: Moldavi
+    mc: Monako
+    mn: Mongoli
+    me: Mali i Zi
+    ms: Montserrat
+    ma: Marok
+    mz: Mozambik
+    mm: Myanmar
+    na: Namibia
+    nr: Nauru
+    np: Nepal
+    nl: Holandë
+    an: Netherlands Antilles
+    nc: Kaledonia e Re
+    nz: Zelanda e Re
+    ni: Nikaragua
+    ne: Niger
+    ng: Nigeri
+    nu: Niue
+    kp: Korea e Veriut
+    mp: Northern Mariana Islands
+    'no': Norvegji
+    om: Oman
+    pk: Pakistan
+    pw: Palau
+    ps: Palestinë
+    pa: Panama
+    pg: Papua New Guinea
+    py: Paraguaj
+    pe: Peru
+    ph: Filipinet
+    pn: Pitcairn
+    pl: Poloni
+    pt: Portugali
+    pr: Puerto Rico
+    qa: Katari
+    cg: Republika e Kongos
+    re: Bashkim
+    ro: Rumani
+    ru: Rusi
+    rw: Ruanda
+    bl: Shën Barthélemy
+    sh: Shën Helena
+    kn: Saint Kitts dhe Nevis
+    lc: Saint Lucia
+    mf: Saint Martin
+    pm: Shën Pierre dhe Miquelon
+    vc: Shën Vincenti dhe Grenadinet
+    ws: Samoa
+    sm: San Marino
+    st: Sao Tome dhe Principe
+    sa: Arabia Saudite
+    sn: Senegal
+    rs: Serbia
+    sc: Seychelles
+    sl: Sierra Leone
+    sg: Singapor
+    sx: Sint Maarten
+    sk: Sllovakia
+    si: Sllovenia
+    sb: Ishujt Solomon
+    so: Somali
+    za: Afrika e Jugut
+    kr: Korea e jugut
+    ss: Sudani Jugor
+    es: Spanjë
+    lk: Sri Lanka
+    sd: Sudan
+    sr: Suriname
+    sj: Svalbard dhe Jan Mayen
+    sz: Swaziland
+    se: Suedi
+    ch: Zvicra
+    sy: Siria
+    tw: Tajvan
+    tj: Taxhikistan
+    tz: Tanzani
+    th: Tajlandë
+    tg: Togo
+    tk: Tokelau
+    to: Karrocë me dy rrota
+    tt: Trinidad dhe Tobago
+    tn: Tunizi
+    tr: Turqi
+    tm: Turkmenistani
+    tc: Turks dhe Caicos Ishujt
+    tv: Tuvalu
+    vi: US Virgin Islands
+    ug: Uganda
+    ua: Ukrainë
+    ae: Emiratet e Bashkuara Arabe
+    gb: Mbretëria e Bashkuar
+    us: Shtetet e Bashkuara
+    uy: Uruguai
+    uz: Uzbekistani
+    vu: Vanuatu
+    va: Vatikan
+    ve: Venezuela
+    vn: Vietnam
+    wf: Wallis dhe Futuna
+    eh: Sahara Perëndimore
+    ye: Jemen
+    zm: Zambia
+    zw: Zimbabve

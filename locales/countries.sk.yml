@@ -1,0 +1,243 @@
+---
+sk:
+  iso3166:
+    af: Afganistan
+    al: Albánsko
+    dz: Alžírsko
+    as: Americká Samoa
+    ad: Andorra
+    ao: Angola
+    ai: Anguilla
+    aq: Antarktída
+    ag: Antigua a Barbuda
+    ar: Argentína
+    am: Arménsko
+    aw: Aruba
+    au: Austrália
+    at: Rakúsko
+    az: Azerbajdžan
+    bs: Bahamské ostrovy
+    bh: Bahrajn
+    bd: Bangladéš
+    bb: Barbados
+    by: Belarus
+    be: Belgicko
+    bz: Belize
+    bj: Benin
+    bm: Bermudy
+    bt: Bhután
+    bo: Bolívia
+    ba: Bosna a Hercegovina
+    bw: Botswana
+    br: Brazília
+    io: Britská územia v Indickom oceáne
+    vg: Britské Panenské ostrovy
+    bn: Brunej
+    bg: Bulharsko
+    bf: Burkina Faso
+    bi: Burundi
+    kh: Kambodža
+    cm: Kamerun
+    ca: Kanada
+    cv: Kapverdy
+    ky: Kajmanie ostrovy
+    cf: Stredoafrická republika
+    td: Chad
+    cl: Chile
+    cn: Čína
+    cx: Vianočný ostrov
+    cc: Kokosové ostrovy
+    co: Kolumbia
+    km: Komory
+    ck: Cookove ostrovy
+    cr: Kostarika
+    hr: Chorvátsko
+    cu: Kuba
+    cw: Curacao
+    cy: Cyprus
+    cz: Česká republika
+    cd: Demokratická republika Kongo
+    dk: Dánsko
+    dj: Džibutsko
+    dm: Dominika
+    do: Dominikánska republika
+    tl: Východný Timor
+    ec: Ekvádor
+    eg: Egypt
+    sv: Spasitel
+    gq: rovníková Guinea
+    er: Eritrea
+    ee: Estónsko
+    et: Etiópia
+    fk: Falklandské ostrovy
+    fo: Faerské ostrovy
+    fj: Fidži
+    fi: Fínsko
+    fr: Francúzsko
+    pf: Francúzsky Polynézia
+    ga: Gabon
+    gm: Gambia
+    ge: Gruzínsko
+    de: Nemecko
+    gh: Ghana
+    gi: Gibraltár
+    gr: Grécko
+    gl: Grónsko
+    gd: Grenada
+    gu: Guam
+    gt: Guatemala
+    gg: Guernsey
+    gn: Guinea
+    gw: Guinea-Bissau
+    gy: Guyana
+    ht: Haiti
+    hn: Honduras
+    hk: Hongkong
+    hu: Maďarsko
+    is: Island
+    in: Indie
+    id: Indonézia
+    ir: Irán
+    iq: Irak
+    ie: Írsko
+    im: ostrov Man
+    il: Izrael
+    it: Taliansko
+    ci: Pobrežie Slonoviny
+    jm: Jamaica
+    jp: Japonsko
+    je: Trikot
+    jo: Jordán
+    kz: Kazachstan
+    ke: Keňa
+    ki: Kiribati
+    xk: Kosovo
+    kw: Kuvajt
+    kg: Kirgizsko
+    la: Laos
+    lv: Lotyšsko
+    lb: Libanon
+    ls: Lesotho
+    lr: Libéria
+    ly: Líbya
+    li: Lichtenštajnsko
+    lt: Litva
+    lu: Luxembursko
+    mo: Macao
+    mk: Macedónsko
+    mg: Madagaskar
+    mw: Malawi
+    my: Malajzia
+    mv: Maledivy
+    ml: Mali
+    mt: Malta
+    mh: Marshallove ostrovy
+    mr: Mauritánia
+    mu: Mauritius
+    yt: Mayotte
+    mx: Mexiko
+    fm: Mikronézia
+    md: Moldavsko
+    mc: Monaco
+    mn: Mongolsko
+    me: Čierna Hora
+    ms: Montserrat
+    ma: Maroko
+    mz: Mozambik
+    mm: Myanmar
+    na: Namíbia
+    nr: Nauru
+    np: Nepál
+    nl: Holandsko
+    an: Holandské Antily
+    nc: Nová Kaledónia
+    nz: Nový Zéland
+    ni: Nikaragua
+    ne: Niger
+    ng: Nigéria
+    nu: Niue
+    kp: Severná Kórea
+    mp: Severné Mariány
+    'no': Nórsko
+    om: Omán
+    pk: Pakistan
+    pw: Palau
+    ps: Palestína
+    pa: Panama
+    pg: Papua-Nová Guinea
+    py: Paraguaj
+    pe: Peru
+    ph: Filipíny
+    pn: Pitcairn
+    pl: Poľsko
+    pt: Portugalsko
+    pr: Portoriko
+    qa: Katar
+    cg: Konžská republika
+    re: Stretnutie
+    ro: Rumunsko
+    ru: Rusko
+    rw: Rwanda
+    bl: Saint Barthelemy
+    sh: Svätá Helena
+    kn: Svätý Krištof a Nevis
+    lc: Svätá Lucia
+    mf: Svätý Martin
+    pm: Saint Pierre a Miquelon
+    vc: Svätý Vincent a Grenadíny
+    ws: Samoa
+    sm: San Maríno
+    st: Svätý Tomáš a Princov
+    sa: Saudská Arábia
+    sn: Senegal
+    rs: Srbsko
+    sc: Seychely
+    sl: Sierra Leone
+    sg: Singapur
+    sx: Sint Maarten
+    sk: Slovensko
+    si: Slovinsko
+    sb: Šalamúnove ostrovy
+    so: Somálsko
+    za: Južná Afrika
+    kr: Južná Kórea
+    ss: Južný Sudán
+    es: Španielsko
+    lk: Srí Lanka
+    sd: Sudán
+    sr: Surinam
+    sj: Svalbard a Jan Mayen
+    sz: Svazijsko
+    se: Švédsko
+    ch: Švajčiarsko
+    sy: Sýria
+    tw: Taiwan
+    tj: Tadžikistan
+    tz: Tanzania
+    th: Thajsko
+    tg: Ísť
+    tk: Tokelau
+    to: Tonga
+    tt: Trinidad a Tobago
+    tn: Tunisko
+    tr: Turecko
+    tm: Turkménsko
+    tc: Turks a Caicos
+    tv: Tuvalu
+    vi: Americké Panenské ostrovy
+    ug: Uganda
+    ua: Ukrajina
+    ae: Spojené Arabské Emiráty
+    gb: Spojene kralovstvo
+    us: Spojené štáty
+    uy: Uruguaj
+    uz: Uzbekistan
+    vu: Vanuatu
+    va: Vatikán
+    ve: Venezuela
+    vn: Vietnam
+    wf: Wallis a Futuna
+    eh: Západná Sahara
+    ye: Jemen
+    zm: Zambia
+    zw: Zimbabwe

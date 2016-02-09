@@ -1,0 +1,243 @@
+---
+ga:
+  iso3166:
+    af: Afghanistan
+    al: Albáin
+    dz: An ailgéir
+    as: Samó Meiriceánach
+    ad: Andóra
+    ao: Angóla
+    ai: Anguilla
+    aq: Antartaice
+    ag: Antigua agus Barbúda
+    ar: An Airgintín
+    am: An Airméin
+    aw: Aruba
+    au: An Astráil
+    at: Austria
+    az: Asarbaiseáin
+    bs: Bahámaí
+    bh: Bahrain
+    bd: An Bhanglaidéis
+    bb: Barbadós
+    by: An Bhealarúis
+    be: An Bheilg
+    bz: An Bheilís
+    bj: Beinin
+    bm: Beirmiúda
+    bt: An Bhútáin
+    bo: Bolivia
+    ba: An Bhoisnia-Heirseagaivéin
+    bw: An Bhotsuáin
+    br: An Bhrasaíl
+    io: Críoch na Breataine san Aigéan Indiach
+    vg: Oileáin Bhriotanacha na Maighdean
+    bn: Brúiné
+    bg: An bhulgáir
+    bf: Buircíne Fasó
+    bi: An Bhurúin
+    kh: Chambóid
+    cm: Camarún
+    ca: Canada
+    cv: Rinn Verde
+    ky: Oileáin Cayman
+    cf: Poblacht na hAfraice Láir
+    td: Sead
+    cl: Chile
+    cn: An tSín
+    cx: Oileán na Nollag
+    cc: Oileáin Cocos
+    co: Colombia
+    km: Oileáin Chomóra
+    ck: Oileáin Cook
+    cr: Costa Rica
+    hr: Croatia
+    cu: Cúba
+    cw: Curacao
+    cy: An Chipir
+    cz: Poblacht na Seice
+    cd: Poblacht Dhaonlathach an Chongó
+    dk: Danmhairg
+    dj: Djibouti
+    dm: Doiminice
+    do: An Phoblacht Dhoiminiceach
+    tl: Tíomór Thoir
+    ec: Ecuador
+    eg: Egypt
+    sv: An Slánaitheoir
+    gq: An Ghuine Mheánchriosach
+    er: An Eiritré
+    ee: An Eastóin
+    et: An Aetóip
+    fk: Oileáin Fháclainne
+    fo: Oileáin Fharó
+    fj: Fidsí
+    fi: An fhionlainn
+    fr: An Fhrainc
+    pf: Polainéis na Fraince
+    ga: An Ghabúin
+    gm: Ghaimbia
+    ge: Georgia
+    de: An Ghearmáin
+    gh: Gána
+    gi: Giobráltar
+    gr: An Ghréig
+    gl: Ghraonlainn
+    gd: Grenada
+    gu: Guam
+    gt: Guatamala
+    gg: Geansaí
+    gn: Guine
+    gw: Guine Bhissau
+    gy: Ghuáin
+    ht: Háití
+    hn: Hondúras
+    hk: Hong Cong
+    hu: An Ungáir
+    is: An Íoslainn
+    in: An India
+    id: Indonesia
+    ir: Iran
+    iq: Iraq
+    ie: Éire
+    im: Oileán Mhanann
+    il: Israel
+    it: An Iodáil
+    ci: Cósta Eabhair
+    jm: Jamaica
+    jp: An tSeapáin
+    je: Jersey
+    jo: Jordan
+    kz: Chasacstáin
+    ke: An Chéinia
+    ki: Ciribeas
+    xk: Chosaiv
+    kw: Kuwait
+    kg: An Chirgeastáin
+    la: Laos
+    lv: Latvia
+    lb: Lebanon
+    ls: Leosóta
+    lr: An Libéir
+    ly: Libia
+    li: Lichtinstéin
+    lt: An Liotuáin
+    lu: Lucsamburg
+    mo: Macao
+    mk: Macadóine
+    mg: Madagascar
+    mw: An Mhaláiv
+    my: An Mhalaeisia
+    mv: Oileáin Mhaildíve
+    ml: Mailí
+    mt: Málta
+    mh: Oileáin Marshall
+    mr: Mháratáin
+    mu: Oileán Mhuirís
+    yt: Mayotte
+    mx: Meicsiceo
+    fm: Micrinéise
+    md: Moldavia
+    mc: Monacó
+    mn: Mhongóil
+    me: Montainéagró
+    ms: Montsarat
+    ma: Maracó
+    mz: Mósaimbíc
+    mm: Myanmar
+    na: Namaib
+    nr: Nárú
+    np: Neipeal
+    nl: An Ísiltír
+    an: Aintillí na hÍsiltíre
+    nc: An Nua-Chaladóin
+    nz: An Nua-Shéalainn
+    ni: Nicaragua
+    ne: An Nígir
+    ng: An Nigéir
+    nu: Niue
+    kp: An Chóiré Thuaidh
+    mp: Northern Mariana Islands
+    'no': Iorua
+    om: Óman
+    pk: Pakistan
+    pw: Palau
+    ps: Phalaistín
+    pa: Panama
+    pg: Nua-Ghuine Phapua
+    py: Paragua
+    pe: Peru
+    ph: Na hOileáin Fhilipíneacha
+    pn: Pitcairn
+    pl: An Pholainn
+    pt: An Phortaingéil
+    pr: Pórtó Ríce
+    qa: Qatar
+    cg: Poblacht an Chongó
+    re: Teacht le chéile
+    ro: An Rómáin
+    ru: An Rúis
+    rw: Ruanda
+    bl: Saint Barthélemy
+    sh: San Héilin
+    kn: San Críostóir-Nimheas
+    lc: Saint Lucia
+    mf: Saint Martin
+    pm: Saint Pierre agus Miquelon
+    vc: San Uinseann agus na Greanáidíní
+    ws: Samó
+    sm: San Marino
+    st: Sao Tome agus Príncipe
+    sa: An Araib Shádach
+    sn: An tSeineagáil
+    rs: Serbia
+    sc: Na Séiséil
+    sl: Siarra Leon
+    sg: Singeapór
+    sx: Sint Maarten
+    sk: An tSlóvaic
+    si: An tSlóivéin
+    sb: Oileáin Sholamón
+    so: Tsomáil
+    za: an Afraic Theas
+    kr: An Chóiré Theas
+    ss: An tSúdáin Theas
+    es: Spain
+    lk: Srí Lanca
+    sd: Sudan
+    sr: Suranam
+    sj: Svalbard agus Jan Mayen
+    sz: An tSuasalainn
+    se: An tSualainn
+    ch: An Eilvéis
+    sy: TSiria
+    tw: Taiwan
+    tj: Táidsíceastáin
+    tz: Tanzania
+    th: An Téalainn
+    tg: Tóga
+    tk: Tócalá
+    to: Tonga
+    tt: Oileán na Tríonóide agus Tobága
+    tn: An Túinéis
+    tr: Turcaí
+    tm: An Tuircméanastáin
+    tc: Oileáin na dTurcach agus na gCaiceos
+    tv: Tuvalu
+    vi: Oileáin Mheiriceánacha na Maighdean
+    ug: Uganda
+    ua: An Úcráin
+    ae: Aontas na nÉimíríochtaí Arabacha
+    gb: an Ríocht Aontaithe
+    us: Stáit Aontaithe
+    uy: Uruguay
+    uz: Úisbéiceastáin
+    vu: Vanuatú
+    va: Cathair na Vatacáine
+    ve: Veiniséala
+    vn: Vítneam
+    wf: Vailís agus Futúna
+    eh: An Sahára Thiar
+    ye: Yemen
+    zm: An tSaimbia
+    zw: An tSiombáib

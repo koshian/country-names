@@ -1,0 +1,243 @@
+---
+az:
+  iso3166:
+    af: Əfqanıstan
+    al: Albaniya
+    dz: Cezayir
+    as: Amerika Samoası
+    ad: Andorra
+    ao: Angola
+    ai: Anguilla
+    aq: Antarctica
+    ag: Antiqua və Barbuda
+    ar: Argentina
+    am: Ermənistan
+    aw: Aruba
+    au: Avstraliya
+    at: Avstriya
+    az: Azərbaycan
+    bs: Bahamas
+    bh: Bahrain
+    bd: Banqladeş
+    bb: Barbados
+    by: Belarus
+    be: Belçika
+    bz: Belize
+    bj: Benin
+    bm: Bermuda
+    bt: Butan
+    bo: Boliviya
+    ba: Bosniya və Herseqovina
+    bw: Botswana
+    br: Braziliya
+    io: İngilis Hind okeanı Ərazisi
+    vg: Britaniya Virgin Adaları
+    bn: Brunei
+    bg: Bolqarıstan
+    bf: Burkina Faso
+    bi: Burundi
+    kh: Kamboca
+    cm: Kamerun
+    ca: Kanada
+    cv: Cape Verde
+    ky: Kayman Adaları
+    cf: Mərkəzi Afrika Respublikası
+    td: Chad
+    cl: Chile
+    cn: Çini
+    cx: Christmas Island
+    cc: Cocos Islands
+    co: Kolumbiya
+    km: Komor
+    ck: Kuk Adaları
+    cr: Costa Rica
+    hr: Xorvatiya
+    cu: Cuba
+    cw: Curacao
+    cy: Kipr
+    cz: Çexiya Respublikası
+    cd: Konqo Demokratik Respublikası
+    dk: Danimarka
+    dj: Cibuti
+    dm: Dominica
+    do: Dominik respublikası
+    tl: East Timor
+    ec: Ekvador
+    eg: Misir
+    sv: Savior
+    gq: Ekvatorial Qvineya
+    er: Eritreya
+    ee: Estoniya
+    et: Efiopiya
+    fk: Falkland Islands
+    fo: Faro Adaları
+    fj: Fici
+    fi: Finlandiya
+    fr: Fransa
+    pf: Fransız Polineziya
+    ga: Gabon
+    gm: Qambiya
+    ge: Gürcüstan
+    de: Almaniya
+    gh: Qana
+    gi: Gibraltar
+    gr: Yunanıstan
+    gl: Greenland
+    gd: Grenada
+    gu: Quam
+    gt: Qvatemala
+    gg: Guernsey
+    gn: Qvineya
+    gw: Guinea-Bissau
+    gy: Guyana
+    ht: Haiti
+    hn: Honduras
+    hk: Honq Konq
+    hu: Macarıstan
+    is: İslandiya
+    in: Hindistan
+    id: İndoneziya
+    ir: İran
+    iq: İraq
+    ie: İrlandiya
+    im: Isle of Man
+    il: İsrail
+    it: İtaliya
+    ci: Ivory Coast
+    jm: Jamaica
+    jp: Yaponiya
+    je: Jersey
+    jo: Jordan
+    kz: Qazaxıstan
+    ke: Kenya
+    ki: Kiribati
+    xk: Kosovo
+    kw: Kuwait
+    kg: Qırğızıstan
+    la: Laos
+    lv: Latviya
+    lb: Lebanon
+    ls: Lesotho
+    lr: Liberiya
+    ly: Libya
+    li: Lixtenşteyn
+    lt: Litva
+    lu: Lüksemburq
+    mo: Macao
+    mk: Makedoniya
+    mg: Madagascar
+    mw: Malavi
+    my: Malayziya
+    mv: Maldives
+    ml: Mali
+    mt: Malta
+    mh: Marshall Islands
+    mr: Mavritaniya
+    mu: Mauritius
+    yt: Mayot
+    mx: Meksika
+    fm: Micronesia
+    md: Moldaviya
+    mc: Monaco
+    mn: Monqolustan
+    me: Monteneqro
+    ms: Montserrat
+    ma: Tumac
+    mz: Mozambique
+    mm: Myanmar
+    na: Namibia
+    nr: Nauru
+    np: Nepal
+    nl: Hollandiya
+    an: Hollandiya Antilləri
+    nc: Yeni Kaledoniya
+    nz: Yeni Zelandiya
+    ni: Nikaraqua
+    ne: Niger
+    ng: Nigeria
+    nu: Niue
+    kp: Simali Koreya
+    mp: Northern Mariana Islands
+    'no': Norveç
+    om: Oman
+    pk: Pakistan
+    pw: Palau
+    ps: Palestine
+    pa: Panama
+    pg: Papua Yeni Qvineya
+    py: Paraqvay
+    pe: Peru
+    ph: Filippin
+    pn: Pitcairn
+    pl: Polşa
+    pt: Portuqaliya
+    pr: Puerto Rico
+    qa: Qatar
+    cg: Konqo Respublikası
+    re: Yenidən birləşmə
+    ro: Rumıniya
+    ru: Rusiya
+    rw: Rwanda
+    bl: Saint Barthelemy
+    sh: Saint Helena
+    kn: Saint Kitts və Nevis
+    lc: Saint Lucia
+    mf: Saint Martin
+    pm: Saint Pierre və Miquelon
+    vc: Seynt Vinsent və Qrenada
+    ws: Samoa
+    sm: San Marino
+    st: Sao Tome və Principe
+    sa: Səudiyyə Ərəbistanı
+    sn: Senegal
+    rs: Serbiya
+    sc: Seychelles
+    sl: Sierra Leone
+    sg: Singapore
+    sx: Sint Maarten
+    sk: Slovakiya
+    si: Sloveniya
+    sb: Solomon adaları
+    so: Somali
+    za: Cənubi Afrika
+    kr: Cənubi Koreya
+    ss: Cənubi Sudan
+    es: İspaniya
+    lk: Şri Lanka
+    sd: Sudan
+    sr: Suriname
+    sj: Svalbard və Jan Mayen
+    sz: Swaziland
+    se: İsveç
+    ch: İsveçrə
+    sy: Suriya
+    tw: Taiwan
+    tj: Tacikistan
+    tz: Tanzania
+    th: Thailand
+    tg: Getmək
+    tk: Tokelau
+    to: Tonga
+    tt: Trinidad və Tobaqo
+    tn: Tunis
+    tr: Hinduşka
+    tm: Türkmənistan
+    tc: Türk və Kaykos Adaları
+    tv: Tuvalu
+    vi: ABŞ Virqin Adaları
+    ug: Uqanda
+    ua: Ukrayna
+    ae: Birləşmiş Ərəb Əmirlikləri
+    gb: Birləşmiş Krallıq
+    us: Amerika Birləşmiş Ştatları
+    uy: Uruqvay
+    uz: Özbəkistan
+    vu: Vanuatu
+    va: Vatikan
+    ve: Venesuela
+    vn: Vyetnam
+    wf: Wallis və Futuna
+    eh: Western Sahara
+    ye: Yemen
+    zm: Zambia
+    zw: Zimbabve
